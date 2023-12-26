@@ -178,7 +178,7 @@ export default function Footer() {
                   y2="1.22829e-05"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stopColor="#C4C4C4" stopOpacity="10" />
+                  <stop stopColor="cyan" stopOpacity="10" />
                   <stop offset={1} stopColor="blue" stopOpacity={0} />
                 </linearGradient>
               </defs>
