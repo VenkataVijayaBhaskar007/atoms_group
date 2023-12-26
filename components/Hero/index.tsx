@@ -17,15 +17,6 @@ const images = [
 ];
 
 
-const mobileImages = [
-  "/herosection/mobile/11.png",
-  "/herosection/mobile/12.png",
-  "/herosection/mobile/13.png",
-  "/herosection/mobile/14.png",
-  "/herosection/mobile/15.png",
-  "/herosection/mobile/16.png",
-  
-];
 const Hero = () => {
   const styles = useSpring({
     from: { transform: 'translateY(0px)' },
@@ -109,21 +100,7 @@ const Hero = () => {
       </Slider>
     </div>
     <div className="block md:hidden scale-95 rounded-lg pt-6 relative">
-      <Slider {...settings} arrows={false} className="">
-        {mobileImages.map((image, index) => {
-          return (
-            <div key={index} className="px-2 relative">
-              <img
-                src={image}
-                alt="heroimage"
-                key={index}
-                className="rounded-lg"
-              />
-            
-            </div>
-          );
-        })}
-      </Slider>
+     
     </div>
   </div>
 </section>
@@ -154,7 +131,7 @@ const Hero = () => {
 
 
 
-{/* 
+
 <section>
 
 <div className="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4 p-10 xl:-mt-30">
@@ -247,7 +224,7 @@ const Hero = () => {
 </div>
 </section>
 
- */}
+ 
 
 
 
