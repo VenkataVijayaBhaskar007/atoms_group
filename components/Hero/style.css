@@ -720,7 +720,44 @@ html, body {width: auto!important; overflow-x: hidden!important}
 }
 @media screen and (min-width: 1024px)  {
   .textsize {
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+  }
+}
+
+
+/* Text size for screen sizes 300px to 400px */
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .textsize1 {
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+}
+
+/* Text size for screen sizes 400px to 600px */
+@media screen and (min-width: 401px) and (max-width: 600px) {
+  .textsize1 {
+    font-size: 1.5rem;
+    line-height: 1rem;
+  }
+}
+
+/* Text size for screen sizes 600px to 800px */
+@media screen and (min-width: 601px) and (max-width: 800px) {
+  .textsize1 {
     font-size: 2rem;
+  }
+}
+
+/* Text size for screen sizes 800px to 1024px */
+@media screen and (min-width: 801px) and (max-width: 1024px) {
+  .textsize1 {
+    font-size: 2.2rem;
+  }
+}
+@media screen and (min-width: 1024px)  {
+  .textsize1 {
+    font-size: 2.2rem;
     line-height: 2.5rem;
   }
 }
