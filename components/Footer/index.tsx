@@ -17,7 +17,7 @@ export default function Footer() {
               <div className="mb-2">
                 {/* Logo */}
                 <Link href="/" className="inline-block" aria-label="Atoms Digital Solutions">
-                <img className="max-w-full mx-auto md:max-w-none h-auto" src="./images/logo/Atoms-Logo-white.png" width={100} height={60} alt="Features 02" />
+                <img className="max-w-full mx-auto md:max-w-none h-auto" src="./images/logo/Atoms-Logo-White.png" width={100} height={60} alt="Features 02" />
                 </Link>
               </div>
               <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
