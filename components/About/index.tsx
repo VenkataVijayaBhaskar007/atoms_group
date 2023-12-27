@@ -169,7 +169,7 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/29.png"
+          src="./images/about/29.webp"
           alt="card image"
         />
         {/* Unique Shape Overlay */}
@@ -197,7 +197,7 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/27.png"
+          src="./images/about/27.webp"
           alt="card image"
         />
         {/* Unique Shape Overlay */}
@@ -224,7 +224,7 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/26.png"
+          src="./images/about/26.webp"
           alt="card image"
         />
         {/* Unique Shape Overlay */}
@@ -320,7 +320,7 @@ const About : React.FC = () => {
       <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/17.png"
+              src="./images/atomsgallery/17.webp"
               alt=""
             />
              <div className="hide">
@@ -392,7 +392,7 @@ const About : React.FC = () => {
    <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/18.png"
+              src="./images/atomsgallery/18.webp"
               alt=""
             />
                       <div className="hide">
@@ -464,7 +464,7 @@ const About : React.FC = () => {
        <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/19.png"
+              src="./images/atomsgallery/19.webp"
               alt=""
             />
             <div className="hide">
@@ -536,7 +536,7 @@ const About : React.FC = () => {
         <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/5.png"
+              src="./images/atomsgallery/5.webp"
               alt=""
             />
              <div className="hide">
@@ -608,7 +608,7 @@ const About : React.FC = () => {
        <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/6.png"
+              src="./images/atomsgallery/6.webp"
               alt=""
             />
              <div className="hide" style={{whiteSpace:"nowrap"}}>
@@ -679,7 +679,7 @@ const About : React.FC = () => {
           <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/22.png"
+              src="./images/atomsgallery/22.webp"
               alt=""
             />
              <div className="hide" style={{whiteSpace:"nowrap"}}>
@@ -752,7 +752,7 @@ const About : React.FC = () => {
           <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/8.png"
+              src="./images/atomsgallery/8.webp"
               alt=""
             />
               <div className="hide">
@@ -823,7 +823,7 @@ const About : React.FC = () => {
          <div className="profile-card mb-8">
           <div className="img">
             <img
-              src="./images/atomsgallery/9.png"
+              src="./images/atomsgallery/9.webp"
               alt=""
              
             />
