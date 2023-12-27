@@ -41,7 +41,7 @@ const Hero = () => {
 
   return (
     <>
-   <section id="home" className=" pb-20  md:pt-10 xl:pb-25 xl:pt-1 relative" >
+   <section id="home" className=" pb-20  md:pt-10 xl:pb-25 xl:pt-1 relative space" >
   <div className="pt-7 sm:pt-16 lg:pt-20 mx-auto w-full h-full">
     <div className=" md:block scale-95 rounded-lg relative">
       <Slider {...settings} className="">
@@ -60,9 +60,9 @@ const Hero = () => {
           
            <div className="mt-10 grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7">
-        <p className="max-w-2xl mb-2 font-light text-white textsize1  lg:mb-2  dark:text-gray-400">Welcome to</p>   
+  <p className="max-w-2xl mb-2 font-light text-white textsize1  lg:mb-2  dark:text-gray-400">Welcome to</p>   
             <h1 className="max-w-2xl mb-2 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-8xl text-white dark:text-white">Atoms Group</h1>
-            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">At Atoms Group, our mission is to inspire the world to learn. We have established ourselves as creators of learning environments that empower individuals to enhance their learning capabilities and contribute to making the world a better place to live.</p>
+            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">From checkout to global sales tax compliance, companies around the world use Flowbite to simplify their payment stack.</p>
            
         </div>
               
