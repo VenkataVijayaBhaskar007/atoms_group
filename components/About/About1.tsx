@@ -53,7 +53,7 @@ const About1 = () => {
                       <div className="gradient-overlay-about1 " ></div>
                       
                     <span className="absolute  -bottom-15 -left-15 z-[-1]" >
-                    <webp width="150" height="150" xmlns="http://www.w3.org/2000/webp">
+                    <svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
   <defs>
     {/* Defining the diagonal linear gradient */}
     <linearGradient id="myGradient" x1="0%" y1="100%" x2="100%" y2="0%">
@@ -64,7 +64,7 @@ const About1 = () => {
 
   {/* Drawing a circle with the defined diagonal linear gradient and reduced opacity */}
   <circle cx="75" cy="75" r="70" fill="url('#myGradient')" opacity="0.5" />
-</webp>
+</svg>
                     </span>
              
 
