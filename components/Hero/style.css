@@ -692,7 +692,7 @@ html, body {width: auto!important; overflow-x: hidden!important}
 /* Text size for screen sizes 300px to 400px */
 @media screen and (min-width: 300px) and (max-width: 400px) {
   .textsize {
-    font-size: 0.7rem;
+    font-size: 0.5rem;
     line-height: 1rem;
   }
 }
@@ -700,7 +700,7 @@ html, body {width: auto!important; overflow-x: hidden!important}
 /* Text size for screen sizes 400px to 600px */
 @media screen and (min-width: 401px) and (max-width: 600px) {
   .textsize {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     line-height: 1rem;
   }
 }
@@ -708,19 +708,19 @@ html, body {width: auto!important; overflow-x: hidden!important}
 /* Text size for screen sizes 600px to 800px */
 @media screen and (min-width: 601px) and (max-width: 800px) {
   .textsize {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 }
 
 /* Text size for screen sizes 800px to 1024px */
 @media screen and (min-width: 801px) and (max-width: 1024px) {
   .textsize {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
   }
 }
 @media screen and (min-width: 1024px)  {
   .textsize {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     line-height: 2.5rem;
   }
 }
