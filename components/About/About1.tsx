@@ -46,14 +46,14 @@ const About1 = () => {
                   <div className="relative z-10 my-4">
                     
                     <img
-                      src="./images/about/long.svg"
+                      src="./images/about/long.webp"
                       alt=""
                       className="w-full rounded-2xl"
                     />
                       <div className="gradient-overlay-about1 " ></div>
                       
                     <span className="absolute  -bottom-15 -left-15 z-[-1]" >
-                    <svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+                    <webp width="150" height="150" xmlns="http://www.w3.org/2000/webp">
   <defs>
     {/* Defining the diagonal linear gradient */}
     <linearGradient id="myGradient" x1="0%" y1="100%" x2="100%" y2="0%">
@@ -64,7 +64,7 @@ const About1 = () => {
 
   {/* Drawing a circle with the defined diagonal linear gradient and reduced opacity */}
   <circle cx="75" cy="75" r="70" fill="url('#myGradient')" opacity="0.5" />
-</svg>
+</webp>
                     </span>
              
 
@@ -76,7 +76,7 @@ const About1 = () => {
                   <div className="relative py-3 ">
                     
                   <img
-                      src="./images/about/short1.svg"
+                      src="./images/about/short1.webp"
                       alt=""
                       className="w-full rounded-2xl"
                     />
@@ -86,7 +86,7 @@ const About1 = () => {
                
                   <div className="relative py-3 ">
                     <img
-                      src="./images/about/short2.svg"
+                      src="./images/about/short2.webp"
                       alt=""
                       className="w-full  rounded-2xl "
                     />
