@@ -133,9 +133,9 @@ const Hero = () => {
 
 
 
-<section>
+<section style={{ marginTop:"-7rem" }}>
 
-<div className="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4 p-10 xl:-mt-30">
+<div className="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4 p-10 xl:-mt-30 ">
   <div className="min-w-0 rounded-full overflow-hidden shadow-md bg-white hover:bg-gradient-to-br hover:from-cyan-400 hover:via-blue-400 hover:to-blue-500 transition-all duration-300 relative group border-2 border-gray-100 dark:bg-gray-800">
     <div className="p-4 flex items-center">
       <div
