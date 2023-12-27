@@ -36,7 +36,7 @@ const Hero = () => {
     slidesToScroll: 1,
     autoplay: true,
 
-    autoplaySpeed: 2000,
+    autoplaySpeed: 20000,
   };
 
   return (
@@ -55,17 +55,18 @@ const Hero = () => {
                 className="rounded-lg cursor-pointer"
               />
            <div className="hero-text-container absolute left-0 text-left pl-6 top-1/2 transform -translate-y-1/2">
-              <h4 className="mb-6 heading-small text-xl font-medium text-white dark:text-white" >
-                 Welcome to
-              </h4>
-              <h1 className=" text-4xl font-bold pr-16 heading-text  text-white dark:text-white xl:text-hero hover:translate-y-[-18px]" style={{ marginBottom:"-15px" }}>
-              Atoms Group
-              </h1>
-              <div className="text-xl">   
-              <p className="mt-8 w-1/2 text-white font-regular">
-              Atoms Group is committed to providing affordable and impressive Group+ services for people from all social backgrounds.
-              </p>
-              </div>
+             
+             
+          
+           <div className="mt-10 grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
+        <div className="mr-auto place-self-center lg:col-span-7">
+        <p className="max-w-2xl mb-2 font-light text-white textsize lg:mb-4  dark:text-gray-400">Welcome to</p>   
+            <h1 className="max-w-2xl mb-2 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl text-white dark:text-white">Atoms Group</h1>
+            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">From checkout to global sales tax compliance, companies around the world use Flowbite to simplify their payment stack.</p>
+           
+        </div>
+              
+    </div>
               <div className="mt-8">
                 {/* <form onSubmit={handleSubmit}> */}
                   {/* <div className="flex flex-wrap gap-5"> */}
@@ -174,7 +175,7 @@ const Hero = () => {
           Team
         </p>
         <p className="text-lg font-semibold text-gray-700 dark:text-gray-200">
-          15+
+          20+
         </p>
       </div>
     </div>

@@ -672,4 +672,55 @@ html, body {width: auto!important; overflow-x: hidden!important}
     opacity: 1;
   }
   
-  
+  .smtext {
+    margin-top: 5rem;
+    font-size: 15px ;
+    line-height: 8px ;
+    margin-bottom: -2rem;
+}
+
+  .lgtext {
+    margin-top: 5rem;
+    font-size: 20px ;
+    line-height: 18px ;
+}
+.xsmtext{
+  font-size: 10px;
+  line-height:12px;
+}
+
+/* Text size for screen sizes 300px to 400px */
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .textsize {
+    font-size: 0.7rem;
+    line-height: 1rem;
+  }
+}
+
+/* Text size for screen sizes 400px to 600px */
+@media screen and (min-width: 401px) and (max-width: 600px) {
+  .textsize {
+    font-size: 0.9rem;
+    line-height: 1rem;
+  }
+}
+
+/* Text size for screen sizes 600px to 800px */
+@media screen and (min-width: 601px) and (max-width: 800px) {
+  .textsize {
+    font-size: 1.2rem;
+  }
+}
+
+/* Text size for screen sizes 800px to 1024px */
+@media screen and (min-width: 801px) and (max-width: 1024px) {
+  .textsize {
+    font-size: 1.25rem;
+  }
+}
+@media screen and (min-width: 1024px)  {
+  .textsize {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+}
