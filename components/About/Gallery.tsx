@@ -53,7 +53,7 @@ const Gallery = () => {
 <div className="gridywrap grid grid-cols-2 md:grid-cols-4 gap-4 px-10 ">
 <div className="grid gap-4">
 <div className="relative">
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610854/5.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610854/5.webp" alt="" />
   <div className="gradient-overlay "></div>
   <div className="image-info">
   <h3 className="text-3xl ">Innovative Software Solutions</h3>
@@ -63,7 +63,7 @@ const Gallery = () => {
 
 <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/15.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/15.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   <h3 className="text-3xl ">Digital </h3>
@@ -77,7 +77,7 @@ const Gallery = () => {
     <div className="grid gap-4">
     <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/6.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/6.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   
@@ -87,7 +87,7 @@ const Gallery = () => {
 </div>
 <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610854/14.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610854/14.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   <h3 className="text-3xl ">Entrepreneurial Spirit</h3>
@@ -99,7 +99,7 @@ const Gallery = () => {
     <div className="grid gap-4">
     <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610850/7.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610850/7.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   <h3 className="text-3xl ">Global Communication</h3>
@@ -109,7 +109,7 @@ const Gallery = () => {
         
 <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/11.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/11.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
  
@@ -121,7 +121,7 @@ const Gallery = () => {
     <div className="grid gap-4">
     <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610422/2.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610422/2.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   <h3 className="text-3xl ">Capturing Moments</h3>
@@ -130,7 +130,7 @@ const Gallery = () => {
 </div>
 <div className="relative">
   
-  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/6101024/4.png" alt="" />
+  <img className="h-auto max-w-full rounded-lg" src="./images/gallery/6101024/4.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   <h3 className="text-3xl "> Youth power</h3>
