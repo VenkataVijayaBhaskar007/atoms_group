@@ -52,7 +52,16 @@ const About1 = () => {
                 </div>
               </div>
              
-              
+              <div className=" flex  flexshape md:flex-column">
+
+
+  <a href="/aboutus"
+    className="mt-8 mb-10 bg-blue-600 text-white hover:text-blue-600 hover: border border-blue-600 hover:bg-white hover:-translate-y-1 shadow-md hover:shadow-lg transform hover:scale-x-105 px-6 py-2 rounded-full transition duration-300 ease-in-out"
+  >
+   Knowmore
+  </a>
+
+</div>
              
                    </div>
               </div>

@@ -15,7 +15,7 @@ const AboutUs = () => {
           <div className="relative xl:container m-auto px-6 md:px-12 lg:px-6">
             <h1 className="sm:mx-auto sm:w-10/12 md:w-2/3 font-black text-blue-900 text-2xl text-center sm:text-5xl md:text-4xl lg:w-auto lg:text-left xl:text-5xl   dark:text-white">Transforming vision into <br className="lg:block hidden"/><span className="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Reality.</span>.</h1>
             <div className="lg:flex">
-              <div className="relative mt-8 md:mt-16 space-y-8 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
+              <div className="relative mt-6 md:mt-8 space-y-8 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
                 <p className="sm:text-lg text-gray-700 dark:text-gray-300 lg:w-11/12">
                 Empowering the world with innovative solutions 
                 </p>
@@ -24,7 +24,7 @@ const AboutUs = () => {
    
     <a aria-label="add to slack" href="#" className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
         <div className="flex justify-center space-x-4">
-            <img className="" src="./images/logo/education.jpg" alt="slack logo" loading="lazy" width="128" height="128"/>
+            <img className="" src="./images/logo/digital.jpg" alt="slack logo" loading="lazy" width="128" height="128"/>
             <span className="hidden font-medium md:block dark:text-white"></span>
         </div>
     </a>
@@ -39,7 +39,7 @@ const AboutUs = () => {
 
     <a aria-label="add to slack" href="#" className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
         <div className="flex justify-center space-x-4">
-            <img className="" src="./images/logo/education.jpg" alt="slack logo" loading="lazy" width="128" height="128"/>
+            <img className="" src="./images/logo/2.O.jpg" alt="slack logo" loading="lazy" width="128" height="128"/>
             <span className="hidden font-medium md:block dark:text-white"></span>
         </div>
     </a>
@@ -50,12 +50,7 @@ const AboutUs = () => {
                   <a href="#" className="font-semibold text-gray-700 dark:text-gray-200">Mail</a>
                   <a href="#" className="font-semibold text-gray-700 dark:text-gray-200">pn no</a>
                 </div>
-                <div className="pt-12 flex gap-6 lg:gap-12 justify-between grayscale lg:w-2/3">
-                  <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/airbnb.svg" className="h-8 sm:h-10 w-auto lg:h-12" alt="" />
-                  <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/ge.svg" className="h-8 sm:h-10 w-auto lg:h-12" alt="" />
-                  <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" className="h-8 sm:h-10 w-auto lg:h-12" alt="" />
-                  <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" className="h-8 sm:h-10 w-auto lg:h-12" alt="" />
-                </div>
+                
               </div>
               <div className="mt-12 xl:mt-[-15rem] md:mt-0 lg:absolute -right-10 lg:w-7/12" >
                 <div className="relative w-full">
@@ -69,7 +64,7 @@ const AboutUs = () => {
               <div className="your-selector lg:absolute -right-10 lg:w-7/12">
                     <div className="relative w-full">
                         <div aria-hidden="true" className="absolute scale-75 md:scale-110 inset-0 m-auto w-full h-full md:w-96 md:h-96 rounded-full rotate-45 bg-gradient-to-r from-sky-500 to-cyan-300 blur-3xl"></div>
-                        <video src="./images/about/about.webm" className="relative w-full"   width="320" height="280" controls autoPlay muted loop style={{marginTop:"-20rem" }}></video>
+                        <video src="./images/about/about.webm" className="relative"   width="600" height="180" controls autoPlay muted loop style={{marginTop:"-16rem",marginLeft:"8rem" }}></video>
                     </div>
                 </div>
             </div>
