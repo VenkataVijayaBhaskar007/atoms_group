@@ -43,7 +43,7 @@ const Hero = () => {
     <>
    <section id="home" className=" pb-20  md:pt-10 xl:pb-25 xl:pt-1 relative space" >
   <div className="pt-7 sm:pt-16 lg:pt-20 mx-auto w-full h-full">
-    <div className=" md:block scale-95 rounded-lg relative">
+    <div className=" md:block scale-95  relative">
       <Slider {...settings} className="">
         {images.map((image, index) => {
           return (
@@ -52,7 +52,7 @@ const Hero = () => {
                 src={image}
                 alt="heroimage"
                 key={index}
-                className="rounded-lg cursor-pointer"
+                className=" cursor-pointer"
               />
            <div className="hero-text-container absolute left-0 text-left pl-6 top-1/2 transform -translate-y-1/2">
              
