@@ -59,9 +59,9 @@ const AboutUs = () => {
               </div>
               <div className="mt-12 xl:mt-[-15rem] md:mt-0 lg:absolute -right-10 lg:w-7/12" >
                 <div className="relative w-full">
-                  <div aria-hidden="true" className="absolute scale-75 md:scale-110 inset-0 m-auto w-full h-full md:w-96 md:h-96 rounded-full rotate-45 bg-gradient-to-r from-sky-500 to-cyan-300 blur-3xl z-[0]"></div>
-                  <video className="h-100 w-100 rounded-lg" controls autoPlay muted loop>
-  <source src="./images/about/about.mp4" type="video/mp4" />
+                  <div aria-hidden="true" className="mt-10 absolute scale-75 md:scale-110 inset-0 m-auto mr-70 w-full h-full md:w-96 md:h-96 rounded-full rotate-45 bg-gradient-to-r from-sky-500 to-cyan-300 blur-3xl z-[0]"></div>
+                  <video className="mt-20 mr-60 h-200 w-200 rounded-lg absolute right-0" controls autoPlay muted loop>
+  <source src="./images/about/about.webm" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
                 </div>

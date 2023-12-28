@@ -105,7 +105,7 @@ const About : React.FC = () => {
       <div>       
               
       <p>
-    At Atoms Group, our mission is to inspire the world to learn. We have established ourselves as creators of learning environments that empower individuals to enhance their learning capabilities and contribute to making the world a better place to live. Our expertise lies in providing courses and training to students, teachers, parents, and educational institution management, utilizing our innovative models to create effective learning spaces.
+      As a dynamic consortium, Atoms Group unites a constellation of companies, each specializing in distinct domains to offer unparalleled services to our valued clients. Atoms Education is our beacon in inspiring global learning, providing innovative courses to students, educators, and institutions. Meanwhile, Atoms Digital Solutions pioneers distinctive digital experiences, excelling in marketing, web/app development, software design, and photography. Complementing these, MJ Saloon, under our umbrella, is a haven of style and grooming. Our commitment is to infuse lifelong learning, innovative digital experiences, and exceptional salon services into the fabric of our client interactions.
     </p>
                    </div>
               </div>
