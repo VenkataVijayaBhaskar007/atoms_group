@@ -68,28 +68,7 @@ const Hero = () => {
               
     </div>
               <div className="mt-8">
-                {/* <form onSubmit={handleSubmit}> */}
-                  {/* <div className="flex flex-wrap gap-5"> */}
-                    {/* <input
-                      value={email}
-                      onChange={(e) => setEmail(e.target.value)}
-                      type="text"
-                      placeholder="Enter your email address"
-                      className="rounded-full border border-stroke px-6 py-2.5 shadow-solid-2 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
-                    /> */}
-                    {/* <button
-                      aria-label="get started button"
-                      className="flex rounded-full bg-purple-600 px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-purple-600 dark:hover:bg-blackho hover:translate-y-[-5px]"
-                    >
-                      Our Projects
-                    </button>
-                    <button
-                      aria-label="get started button"
-                      className="flex rounded-full bg-gray-100  px-7.5 py-2.5 text-black  dark:text-white hover:text-white duration-300 ease-in-out hover:bg-purple-600 dark:bg-btndark dark:hover:bg-purple-600 hover:translate-y-[-5px]"
-                    >
-                      Our Team
-                    </button>
-                  </div> */}
+               
                
 
                
@@ -120,14 +99,6 @@ const Hero = () => {
 
 
 
-      {/* <section>   <Image
-                  src="/images/shape/shape-01.svg"
-                  alt="shape"
-                  width={200}
-                  height={200}
-                  className="absolute -left-0 bottom-90"
-                  
-                /></section> */}
 
 
 

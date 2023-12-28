@@ -469,7 +469,7 @@ const About : React.FC = () => {
             />
             <div className="hide">
             <h3>Shaik Khajipur Azaruddin</h3>
-            <p>COO & Director</p> </div>
+            <p>CMO & Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-18">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
@@ -500,7 +500,7 @@ const About : React.FC = () => {
           </div>
           <div className="caption">
             <h3>Shaik Khajipur Azaruddin</h3>
-            <p>COO & Director</p> 
+            <p>CMO & Director</p> 
             {/* Social links for Card 1 */}
            <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
