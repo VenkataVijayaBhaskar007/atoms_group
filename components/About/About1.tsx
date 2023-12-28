@@ -35,6 +35,22 @@ const About1 = () => {
                   To cultivate visionary leaders who, in turn, inspire and create impactful leaders on a global scale.</p>
                 </div>
               </div>
+
+              <div className="mt-5">
+              <h2 className=" text-blue-600   text2xl font-bold dark:text-white xl:text-hero" style={{ whiteSpace:'nowrap'}}>
+              Our Mission
+                
+              </h2>
+              </div>
+    <div className=" flex items-center gap-5">
+            
+                <div className="w-3/4 mt-2">
+                 
+                  <p>
+                 
+                  To cultivate visionary leaders who, in turn, inspire and create impactful leaders on a global scale.</p>
+                </div>
+              </div>
              
               
              
