@@ -71,6 +71,249 @@ const AboutUs = () => {
           </div>
         </div>
       </section>
+      <section id="works" className="relative bg-gray-900 py-10 sm:py-16 lg:py-24">
+    <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <div className="max-w-2xl mx-auto text-center">
+            <h2 className="text-4xl text-white font-extrabold mx-auto md:text-6xl lg:text-5xl">How does it work?</h2>
+            <p className="max-w-2xl mx-auto mt-4 text-base text-gray-400 leading-relaxed md:text-2xl">
+                Our AI solution will help you from start to finish
+            </p>
+        </div>
+        <div className="relative mt-12 lg:mt-20">
+        <div className="absolute inset-x-0 hidden xl:px-44 top-2 md:block md:px-20 lg:px-28">
+  <img
+    alt=""
+    loading="lazy"
+    width="1000"
+    height="500"
+    decoding="async"
+    data-nimg="1"
+    className="w-full text-transparent"
+    src="https://cdn.rareblocks.xyz/collection/celebration/images/steps/2/curved-dotted-line.svg"
+  />
+</div>
+
+            <div className="relative grid grid-cols-1 text-center gap-y-12 md:grid-cols-3 gap-x-12">
+                <div>
+                    <div
+                        className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
+                        <span className="text-xl font-semibold text-gray-700">1</span>
+                    </div>
+                    <h3 className="mt-6 text-xl  text-white font-semibold leading-tight md:mt-10">Select template</h3>
+                    <p className="mt-4 text-base text-gray-400 md:text-lg">
+                        Select template accourding to your requirement
+                    </p>
+                </div>
+                <div>
+                    <div
+                        className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
+                        <span className="text-xl font-semibold text-gray-700">2</span>
+                    </div>
+                    <h3 className="mt-6 text-xl text-white font-semibold leading-tight md:mt-10">Enter Your Details</h3>
+                    <p className="mt-4 text-base text-gray-400 md:text-lg">
+                        Put in your personalized details and let the AI do the rest.
+                    </p>
+                </div>
+                <div>
+                    <div
+                        className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
+                        <span className="text-xl font-semibold text-gray-700">3</span>
+                    </div>
+                    <h3 className="mt-6 text-xl text-white font-semibold leading-tight md:mt-10">Publish it</h3>
+                    <p className="mt-4 text-base text-gray-400 md:text-lg">
+                        Use output as you like
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="absolute inset-0 m-auto max-w-xs h-357 blur-118 sm:max-w-md md:max-w-lg bg-radial-gradient"
+    style={{ background: 'radial-gradient(1.89deg, rgba(34, 78, 95, 0.4) -1000%, rgba(191, 227, 205, 0.26) 1500.74%, rgba(34, 140, 165, 0.41) 56.49%, rgba(28, 47, 99, 0.11) 1150.91%)' }}>
+</div>
+</section>
+<section className="bg-white dark:bg-gray-900">
+    <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
+       
+        <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">We love our creators</h1>
+        <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+       </div>
+      
+<div className="p-4 text-gray-600">
+	<h1 className="mb-8 text-center text-3xl font-bold text-indigo-900">Vision</h1>
+
+	<ul className="grid place-content-center sm:grid-cols-2 gap-8">
+		<li className="flex">
+		
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Research</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We love numbers! We collect data and insights, analyze
+					them then take the time to learn about your objectives, ask the right questions to understand your
+					business.</p>
+			</div>
+		</li>
+		<li className="flex">
+	
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Strategey</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">Solutions are born from proper research, hard work, and
+					strong strategy. We build data-driven roadmaps for every project to make pave the way to success.
+				</p>
+			</div>
+		</li>
+		<li className="flex">
+
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Design</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We design the right solution for your business. We
+					craft beautiful, intuitive, and user-friendly interfaces that are easy to use and easy to maintain.
+				</p>
+			</div>
+		</li>
+		<li className="flex">
+	
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Development</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We build the right solution for your business. We
+					craft beautiful, intuitive, and user-friendly interfaces that are easy to use and easy to maintain.
+				</p>
+			</div>
+		</li>
+		
+	</ul>
+</div>
+  
+  </section>
+   <section>
+
+   <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+  <div className="grid gap-24 row-gap-8 lg:grid-cols-5">
+    <div className="grid gap-8 lg:col-span-2">
+      <div>
+        <p className="mb-2 text-lg font-bold">Our mission</p>
+        <p className="text-gray-700">
+          An old man lived in the village. He was one of the most unfortunate people in the world. The whole village was tired of him, he was always gloomy, he constantly complained.
+        </p>
+      </div>
+      <div>
+        <p className="mb-2 text-lg font-bold">The Wise Man\</p>
+        <p className="text-gray-700">
+          People have been coming to the wise man, complaining about the same problems every time. One day he told them a joke and everyone roared in laughter.
+        </p>
+      </div>
+    </div>
+    <div className="grid border divide-y rounded lg:col-span-3 sm:grid-cols-2 sm:divide-y-0 sm:divide-x">
+      <div className="flex flex-col justify-between p-10">
+        <div>
+          <p className="text-lg font-semibold text-gray-800 sm:text-base">
+            Funds Raised
+          </p>
+          <p className="text-2xl font-bold text-deep-purple-accent-400 sm:text-xl">
+            $84 000 000
+          </p>
+        </div>
+        <div>
+          <p className="text-lg font-semibold text-gray-800 sm:text-base">
+            Products
+          </p>
+          <p className="text-2xl font-bold text-deep-purple-accent-400 sm:text-xl">
+            52
+          </p>
+        </div>
+        <div>
+          <p className="text-lg font-semibold text-gray-800 sm:text-base">
+            Downloads
+          </p>
+          <p className="text-2xl font-bold text-deep-purple-accent-400 sm:text-xl">
+            186M
+          </p>
+        </div>
+      </div>
+      <div className="flex flex-col justify-between p-10">
+        <div>
+          <p className="text-lg font-semibold text-gray-800 sm:text-base">Users</p>
+          <p className="text-2xl font-bold text-deep-purple-accent-400 sm:text-xl">
+            86K
+          </p>
+        </div>
+        <div>
+          <p className="text-lg font-semibold text-gray-800 sm:text-base">
+            Installations
+          </p>
+          <p className="text-2xl font-bold text-deep-purple-accent-400 sm:text-xl">
+            917 000
+          </p>
+        </div>
+        <div>
+          <p className="text-lg font-semibold text-gray-800 sm:text-base">
+            Subscribers
+          </p>
+          <p className="text-2xl font-bold text-deep-purple-accent-400 sm:text-xl">
+            213K
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+<div className="p-4 text-gray-600">
+	<h1 className="mb-8 text-center text-3xl font-bold text-indigo-900">Vision</h1>
+
+	<ul className="grid place-content-center sm:grid-cols-2 gap-8">
+		<li className="flex">
+			<div className="px-4 text-5xl font-extralight text-indigo-700">01.</div>
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Research</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We love numbers! We collect data and insights, analyze
+					them then take the time to learn about your objectives, ask the right questions to understand your
+					business.</p>
+			</div>
+		</li>
+		<li className="flex">
+			<div className="px-4 text-5xl font-extralight text-indigo-700">02.</div>
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Strategey</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">Solutions are born from proper research, hard work, and
+					strong strategy. We build data-driven roadmaps for every project to make pave the way to success.
+				</p>
+			</div>
+		</li>
+		<li className="flex">
+			<div className="px-4 text-5xl font-extralight text-indigo-700">03.</div>
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Design</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We design the right solution for your business. We
+					craft beautiful, intuitive, and user-friendly interfaces that are easy to use and easy to maintain.
+				</p>
+			</div>
+		</li>
+		<li className="flex">
+			<div className="px-4 text-5xl font-extralight text-indigo-700">04.</div>
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Development</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We build the right solution for your business. We
+					craft beautiful, intuitive, and user-friendly interfaces that are easy to use and easy to maintain.
+				</p>
+			</div>
+		</li>
+		<li className="flex">
+			<div className="px-4 text-5xl font-extralight text-indigo-700">05.</div>
+			<div>
+				<div className="text-xl font-bold text-indigo-800">Deployment</div>
+				<p className="max-w-xs py-2 text-sm text-indigo-900">We build the right solution for your business. We
+					craft beautiful, intuitive, and user-friendly interfaces that are easy to use and easy to maintain.
+				</p>
+			</div>
+		</li>
+	</ul>
+</div>
+  </section>
+ 
+ 
+  <section>
+
+  </section>
     </>
   );
 };
