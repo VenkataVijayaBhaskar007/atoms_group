@@ -317,7 +317,7 @@ const About : React.FC = () => {
 <section className="flex flex-wrap justify-center items-center "> 
    
         {/* Card 1 */}
-      <div className="profile-card mb-8">
+      <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/17.webp"
@@ -389,7 +389,7 @@ const About : React.FC = () => {
         </div> 
 
         {/* Card 2 */}
-   <div className="profile-card mb-8">
+   <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/18.webp"
@@ -461,7 +461,7 @@ const About : React.FC = () => {
         </div> 
 
         {/* Card 3 */}
-       <div className="profile-card mb-8">
+       <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/19.webp"
@@ -533,7 +533,7 @@ const About : React.FC = () => {
         </div> 
 
         {/* Card 4 */}
-        <div className="profile-card mb-8">
+        <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/5.webp"
@@ -605,7 +605,7 @@ const About : React.FC = () => {
         </div> 
         {/*bottom section */}
         {/*card 5 */}
-       <div className="profile-card mb-8">
+       <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/6.webp"
@@ -676,7 +676,7 @@ const About : React.FC = () => {
           </div>
         </div>
          {/*card 6 */}
-          <div className="profile-card mb-8">
+          <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/22.webp"
@@ -749,7 +749,7 @@ const About : React.FC = () => {
           </div>
         </div>
          {/*card 7 */}
-          <div className="profile-card mb-8">
+          <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/8.webp"
@@ -820,7 +820,7 @@ const About : React.FC = () => {
           </div>
         </div> 
          {/*card 8 */}
-         <div className="profile-card mb-8">
+         <div className="profile-card  profile-card1 mb-8">
           <div className="img">
             <img
               src="./images/atomsgallery/9.webp"
