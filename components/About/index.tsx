@@ -327,7 +327,7 @@ const About : React.FC = () => {
             <h3>Ayyappa Siginam</h3>
             <p>Chairman & Director</p></div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -395,11 +395,11 @@ const About : React.FC = () => {
               src="./images/atomsgallery/18.webp"
               alt=""
             />
-                      <div className="hide">
+                      <div className="hide" style={{whiteSpace:"nowrap"}}>
             <h3>Naga Sai Sravanth Singamsetty</h3>
             <p>CEO & Director</p> </div>
             <ul className="flex justify-start items-center mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -471,7 +471,7 @@ const About : React.FC = () => {
             <h3>Shaik Khajipur Azaruddin</h3>
             <p>CMO & Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -543,7 +543,7 @@ const About : React.FC = () => {
             <h3>Prudhvi Pachipulusu</h3>
             <p>Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -615,7 +615,7 @@ const About : React.FC = () => {
             <h3>Tirumala Sai Ganesh Babu Battula</h3>
             <p>Director & Lead of Acumen Club</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -687,7 +687,7 @@ const About : React.FC = () => {
             </h3>
             <p>Director & Lead of Engineer's Scoops</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -759,7 +759,7 @@ const About : React.FC = () => {
             <h3>Durga Prasad Goli</h3>
             <p>Director & Lead of Visual Media</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
@@ -831,7 +831,7 @@ const About : React.FC = () => {
              <h3>Naga Sai Durgesh Singamsetty</h3>
             <p>Director & Digital Marketing Associate</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
-  <li className="ml-18">
+  <li className="ml-15">
     <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
