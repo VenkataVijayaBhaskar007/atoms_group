@@ -62,7 +62,7 @@ const Hero = () => {
         <div className="mr-auto place-self-center lg:col-span-7">
   <p className="max-w-2xl mb-2 font-light text-white textsize1  lg:mb-2  dark:text-gray-400">Welcome to</p>   
             <h1 className="max-w-2xl mb-2 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-8xl text-white dark:text-white">Atoms Group</h1>
-            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">From checkout to global sales tax compliance, companies around the world use Flowbite to simplify their payment stack.</p>
+            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">Creating changemakers who inspire...</p>
            
         </div>
               

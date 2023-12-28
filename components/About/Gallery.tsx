@@ -56,7 +56,7 @@ const Gallery = () => {
   <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610854/5.webp" alt="" />
   <div className="gradient-overlay "></div>
   <div className="image-info">
-  <h3 className="text-3xl ">Innovative Software Solutions</h3>
+  <h3 className="heading ">Innovative Software Solutions</h3>
     <p className="weight">The group drives technological advancement with innovative software solutions for businesses and individuals.</p>
   </div>
 </div>
@@ -66,8 +66,8 @@ const Gallery = () => {
   <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610598/15.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
-  <h3 className="text-3xl ">Digital </h3>
-  <h3 className="text-3xl ">Transformation</h3>
+  <h3 className="heading ">Digital </h3>
+  <h3 className="heading ">Transformation</h3>
     <p className="weight">Atoms Group bridges the digital divide through digital marketing services, enabling thriving in the digital age.</p>
   </div>
 </div>
@@ -90,7 +90,7 @@ const Gallery = () => {
   <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610854/14.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
-  <h3 className="text-3xl ">Entrepreneurial Spirit</h3>
+  <h3 className="heading ">Entrepreneurial Spirit</h3>
     <p className="weight">Atoms Group inspires an entrepreneurial spirit, encouraging innovation and business development through diverse projects.</p>
   </div>
 </div>
@@ -102,7 +102,7 @@ const Gallery = () => {
   <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610850/7.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
-  <h3 className="text-3xl ">Global Communication</h3>
+  <h3 className="heading ">Global Communication</h3>
     <p className="weight">English learning programs enhance global communication, connecting individuals and fostering understanding.</p>
   </div>
 </div>
@@ -113,7 +113,7 @@ const Gallery = () => {
   <div className="gradient-overlay " ></div>
   <div className="image-info">
  
-  <h3 className="text-3xl ">Indulgence in Happiness</h3>
+  <h3 className="heading ">Indulgence in Happiness</h3>
     <p className="weight">Atoms Group's ice cream products bring joy and indulgence, creating moments of happiness for individuals and families.</p>
   </div>
 </div>
@@ -124,7 +124,7 @@ const Gallery = () => {
   <img className="h-auto max-w-full rounded-lg" src="./images/gallery/610422/2.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
-  <h3 className="text-3xl ">Capturing Moments</h3>
+  <h3 className="heading ">Capturing Moments</h3>
     <p className="weight">Visual services capture and preserve memories, promoting community through shared experiences.</p>
   </div>
 </div>
@@ -133,7 +133,7 @@ const Gallery = () => {
   <img className="h-auto max-w-full rounded-lg" src="./images/gallery/6101024/4.webp" alt="" />
   <div className="gradient-overlay " ></div>
   <div className="image-info">
-  <h3 className="text-3xl "> Youth power</h3>
+  <h3 className="heading "> Youth power</h3>
     <p className="weight">The group empowers youth towards their dreams, promoting a sense of youth power.</p>
   </div>
 </div>

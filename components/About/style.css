@@ -569,16 +569,14 @@ html, body {width: auto!important; overflow-x: hidden!important}
   }
   .weight{
     font-weight: 400;
+
   }
   
   .relative:hover .image-info {
     opacity: 1;
   }
 
-  .gallerytext {
-    font-size: 1.875rem/* 30px */;
-    line-height: 2.25rem/* 36px */;
-}
+
 
  /* TeamSection.css */
 .profile-card {
@@ -772,5 +770,47 @@ html, body {width: auto!important; overflow-x: hidden!important}
 @media screen and (min-width: 1580px) and (max-width: 3380px) {
   .gradient-overlay-about {
     margin-bottom: 2.9%;
+  }
+}
+@media screen and (min-width: 410px) and (max-width: 481px) {
+  .weight {
+    font-size: 0.7rem;
+    line-height:0.9rem;
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 1024px) {
+  .weight {
+    font-size: 0.8rem;
+  }
+}
+@media screen and (min-width: 250px) and (max-width: 410px) {
+  .weight {
+    font-size: 0.5rem;
+    line-height: 1rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .heading {
+    font-size: 1.875rem/* 30px */;
+  line-height: 2.25rem/* 36px */;
+  }
+}
+@media screen and (min-width: 250px) and (max-width: 410px) {
+  .heading {
+    font-size: 0.5rem;
+    line-height: 1rem;
+  }
+}
+@media screen and (min-width: 411px) and (max-width: 481px) {
+  .heading {
+    font-size: 0.9rem;
+    line-height: 1rem;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 900px) {
+  .heading {
+    font-size: 0.9rem;
+    line-height: 1rem;
   }
 }
