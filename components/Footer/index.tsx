@@ -86,18 +86,18 @@ export default function Footer() {
 
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-bold mb-1">Atoms Group</h6>
+                <Link href="https://www.atomsgroup.net/"><h6 className="text-gray-200 font-bold mb-1">Atoms Group</h6></Link>
                 <ul>
                   
                   {/* ... list items ... */}
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Education</Link>
+                    <Link href="https://education.atomsgroup.net/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Education</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Digital Solutions</Link>
+                    <Link href="https://atomsdigitalsolutions.atomsgroup.net/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Digital Solutions</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out ">Atoms 2.0</Link>
+                    <Link href="https://atoms2.0.atomsgroup.net/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out ">Atoms 2.0</Link>
                   </li>
                   <li className="mb-1">
                     <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out"></Link>
@@ -107,18 +107,18 @@ export default function Footer() {
 
               {/* 3rd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-bold mb-1">Atoms Digital Solutions</h6>
+               <Link href="https://atomsdigitalsolutions.atomsgroup.net/"> <h6 className="text-gray-200 font-bold mb-1">Atoms Digital Solutions</h6></Link>
                 <ul>
                  
                   {/* ...list items ... */}
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Digital Marketing Services</Link>
+                    <Link href="https://digitalmarketingservices.atomsgroup.net/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Digital Marketing Services</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Software Services</Link>
+                    <Link href="https://softwareservices.atomsgroup.net/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Software Services</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual Media</Link>
+                    <Link href="https://visualmedia.atomsgroup.net/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual Media</Link>
                   </li>
                   <li className="mb-1">
                     <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out"></Link>
@@ -128,30 +128,30 @@ export default function Footer() {
 
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-bold mb-1">Atoms Education</h6>
+               <Link href="https://education.atomsgroup.net/"> <h6 className="text-gray-200 font-bold mb-1">Atoms Education</h6></Link>
                 <ul>
                   
                   {/* ...list items ... */}
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Personality Development Program</Link>
+                    <Link href="https://education.atomsgroup.net/section1" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Personality Development Program</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">The Acumen Club</Link>
+                    <Link href="https://education.atomsgroup.net/section2" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">The Acumen Club</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Tutions</Link>
+                    <Link href="https://education.atomsgroup.net/section3" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Tutions</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Summer Camps</Link>
+                    <Link href="https://education.atomsgroup.net/section4" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Summer Camps</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Placement Assistance Packages</Link>
+                    <Link href="https://education.atomsgroup.net/section5" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Placement Assistance Packages</Link>
                   </li>
                 </ul>
               </div>
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-bold mb-1 z-999">Atoms 2.0</h6>
+                <Link href="https://atoms2.0.atomsgroup.net/"><h6 className="text-gray-200 font-bold mb-1 z-999">Atoms 2.0</h6></Link>
                 <ul>
                   
                   {/* ... list items ... */}

@@ -181,7 +181,7 @@ const About : React.FC = () => {
         At Atoms Group, our mission is to inspire the world to learn. We have established ourselves as creators of learning environments that empower individuals to ...
         </p>
         <a
-          href="https://atoms-education-omega.vercel.app/"
+          href="https://education.atomsgroup.net/"
           className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
         >
           <span className="duration-300 group-hover:pr-2">Learn more</span>
@@ -209,7 +209,7 @@ const About : React.FC = () => {
         Atoms Group is committed to providing affordable and impressive Group services for people social backgrounds. Our current projects include a private hostel offering ...
         </p>
         <a
-          href="https://digital-solutions-orpin.vercel.app/"
+          href="https://atomsdigitalsolutions.atomsgroup.net/"
           className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
         >
           <span className="duration-300 group-hover:pr-2">Learn more</span>
@@ -236,7 +236,7 @@ const About : React.FC = () => {
         Atoms Group is committed to providing affordable and impressive Group services for people social backgrounds. Our current projects include a private hostel offering ...
         </p>
         <a
-          href="http://atoms2-0.vercel.app"
+          href="https://atoms2.0.atomsgroup.net/"
           className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
         >
           <span className="duration-300 group-hover:pr-2">Learn more</span>

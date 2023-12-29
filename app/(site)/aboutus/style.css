@@ -149,3 +149,9 @@ html, body {width: auto!important; overflow-x: hidden!important}
       margin-right: 2rem;
     }
   }
+  @media screen and (min-width: 723px) and (max-width: 1023px) {
+    /* Apply styles for screens between 300px and 1028px */
+    .kidsmargin {
+      margin-left: 6rem;
+    }
+  }
