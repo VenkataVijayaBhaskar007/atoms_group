@@ -81,7 +81,7 @@ const Gallery = () => {
   <div className="gradient-overlay " ></div>
   <div className="image-info">
   
-  <h3 className="gallerytext ">Enhanced Life Skills</h3>
+  <h3 className="heading ">Enhanced Life Skills</h3>
     <p className="weight">Atoms Group empowers students with life skills, fosters personal development, and prepares them for success.</p>
   </div>
 </div>
