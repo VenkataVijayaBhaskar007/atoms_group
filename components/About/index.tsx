@@ -144,7 +144,7 @@ const About : React.FC = () => {
 
 
 
-<section className="container mx-auto ">
+<section id="companies" className="container mx-auto ">
   
     {/* First Card */}
     <motion.div
@@ -286,7 +286,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
 <Gallery/>
 
 {/*teams section starts*/}
-<section className="overflow-hidden   lg:pt-[10px] lg:pb-[30px] bg-white dark:bg-dark px-10">
+<section id="Team" className="overflow-hidden   lg:pt-[10px] lg:pb-[30px] bg-white dark:bg-dark px-10">
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center justify-between -mx-4">
           
@@ -331,7 +331,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>Chairman & Director</p></div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:ayyappaatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -339,7 +339,8 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/siginam-ayyappa-663b5619a
+" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -347,7 +348,8 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/ayyappa_siginam?igshid=MmU2YjMzNjRlOQ==
+" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -363,7 +365,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
           <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:ayyappaatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -371,7 +373,8 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/siginam-ayyappa-663b5619a
+" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -379,7 +382,8 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/ayyappa_siginam?igshid=MmU2YjMzNjRlOQ==
+" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -403,7 +407,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>CEO & Director</p> </div>
             <ul className="flex justify-start items-center mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanthatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -411,7 +415,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/naga-sai-sravanth-singamsetty/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -419,7 +423,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/sns_sravanth/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -435,7 +439,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
         <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanthatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -443,7 +447,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/naga-sai-sravanth-singamsetty/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -451,7 +455,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/sns_sravanth/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -475,7 +479,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>CMO & Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:azaruddin.atoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -483,7 +487,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/shaik-khajipur-azaruddin-0705a4197" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -491,7 +495,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/azaruddinkhajipur?igshid=MzRlODBiNWFlZA==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -507,7 +511,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
            <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:azaruddin.atoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -515,7 +519,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/shaik-khajipur-azaruddin-0705a4197" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -523,7 +527,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/azaruddinkhajipur?igshid=MzRlODBiNWFlZA==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -547,7 +551,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:prudhvipachipulusuatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -555,7 +559,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/prudhvi-pachipulusu-959208213" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -563,7 +567,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/prudhvi_pachipulusu?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -579,7 +583,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
          <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:prudhvipachipulusuatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -587,7 +591,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/prudhvi-pachipulusu-959208213" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -595,7 +599,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/prudhvi_pachipulusu?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -619,7 +623,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>Director & Lead of Acumen Club</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:saiganeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -627,7 +631,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/ganesh-battula-4ba587225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -635,7 +639,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/__gani___09?igsh=MTRsMnF1MGs5amx6OA==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -651,7 +655,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
             <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:saiganeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -659,7 +663,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/ganesh-battula-4ba587225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -667,7 +671,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/__gani___09?igsh=MTRsMnF1MGs5amx6OA==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -691,7 +695,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>Director & Lead of Engineer's Scoops</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -699,7 +703,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/sravan-kumar-reddy-98396a192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -707,7 +711,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/sravan_atoms?igsh=ODA1NTc5OTg5Nw==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -724,7 +728,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -732,7 +736,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/sravan-kumar-reddy-98396a192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -740,7 +744,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/sravan_atoms?igsh=ODA1NTc5OTg5Nw==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -763,7 +767,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>Director & Lead of Visual Media</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:atomsdurga@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -771,7 +775,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/valaparla-valaparla-168b9b285" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -779,7 +783,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/durga_goli?igshid=MzNlNGNkZWQ4Mg==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -795,7 +799,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0 ">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:atomsdurga@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -803,7 +807,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/valaparla-valaparla-168b9b285" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -811,7 +815,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://instagram.com/durga_goli?igshid=MzNlNGNkZWQ4Mg==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -835,7 +839,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             <p>Director & Digital Marketing Associate</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -843,7 +847,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/naga-sai-durgesh-singamsetty-976a71224/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -851,7 +855,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/nagasaidurgesh?igsh=MWczbm1kYWk0cGl2eQ==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -867,7 +871,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -875,7 +879,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://www.linkedin.com/in/naga-sai-durgesh-singamsetty-976a71224/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
@@ -883,7 +887,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
   </li>
 
   <li className="ml-4">
-    <Link href="/" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
+    <Link href="https://www.instagram.com/nagasaidurgesh?igsh=MWczbm1kYWk0cGl2eQ==" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-pink-600 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Instagram">
       <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <circle cx="20.145" cy="11.892" r="1" />
         <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />

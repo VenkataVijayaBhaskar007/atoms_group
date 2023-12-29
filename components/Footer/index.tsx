@@ -220,7 +220,7 @@ export default function Footer() {
                   y2="1.22829e-05"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stopColor="cyan" stopOpacity="10" />
+                  <stop stopColor="cyan" stopOpacity="100" />
                   <stop offset={1} stopColor="blue" stopOpacity={0} />
                 </linearGradient>
               </defs>
@@ -237,7 +237,7 @@ export default function Footer() {
   </defs>
 
   {/* Drawing a circle with the defined diagonal linear gradient and reduced opacity */}
-  <circle cx="75" cy="75" r="70" fill="url('#myGradient')" opacity="0.7" />
+  <circle cx="75" cy="75" r="70" fill="url('#myGradient')" opacity="1" />
 </svg>
           </span>
     </div>

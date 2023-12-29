@@ -4,7 +4,7 @@ import "./style.css"
 const Gallery = () => {
   
   return (
-  <section>
+  <section id="Insights">
   
 
 {/*gallery section starts*/}

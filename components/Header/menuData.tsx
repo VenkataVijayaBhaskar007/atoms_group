@@ -11,28 +11,18 @@ const menuData: Menu[] = [
     id: 2,
     title: "About",
     newTab: false,
-    path: "#about",
+    path: "#About",
   },
-  {
-    id: 2,
-    title: "Services",
-    newTab: false,
-    path: "#services",
-  },
-  {
-    id: 2.3,
-    title: "Team",
-    newTab: false,
-    path: "/team",
-  },
+ 
   {
     id: 3,
     title: "Companies",
     newTab: false,
+    path: "#Companies",
     submenu: [
       {
         id: 31,
-        title: "Atoms Group",
+        title: "",
         newTab: false,
         path: "/",
       },
@@ -68,6 +58,19 @@ const menuData: Menu[] = [
       },
     ],
   },
+  {
+    id: 2,
+    title: "Insights",
+    newTab: false,
+    path: "#Insights",
+  },
+  {
+    id: 2.3,
+    title: "Team",
+    newTab: false,
+    path: "#Team",
+  },
+ 
  
 ];
 
