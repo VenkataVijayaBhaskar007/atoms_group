@@ -20,7 +20,7 @@ export default function Footer() {
                 <img className=" max-w-full mx-auto md:max-w-none h-auto" src="./images/logo/Atoms-Logo-White.png" width={100} height={60} alt="Features 02" />
                 </Link>
               </div>
-              <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Atoms Group: Inspiring change makers, driving global impact. Active in education, tech, and hospitality. Dedication to creative solutions. Cultivating leaders for positive transformations.</div>
+              <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Stay connected with Atoms Software Services, a pioneering branch of the Atoms Group, as we make strides in software services. Explore innovative web applications and exceptional UI/UX designs. Committed to excellence, we actively contribute to the success of ventures. Join us on our evolving journey in the dynamic field of software services.</div>
             </div>
             <div className="order-1 md:order-2 flex  justify-center sm:mt-0 mr-0 md:ml-25 z-999">
             <div className="container ">
@@ -97,10 +97,10 @@ export default function Footer() {
                     <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Digital Solutions</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms 2.0</Link>
+                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out ">Atoms 2.0</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Web dev</Link>
+                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out"></Link>
                   </li>
                 </ul>
               </div>
@@ -121,7 +121,7 @@ export default function Footer() {
                     <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual Media</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Visual media</Link>
+                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out"></Link>
                   </li>
                 </ul>
               </div>
@@ -151,15 +151,15 @@ export default function Footer() {
               </div>
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-bold mb-1">Atoms 2.0</h6>
+                <h6 className="text-gray-200 font-bold mb-1 z-999">Atoms 2.0</h6>
                 <ul>
                   
                   {/* ... list items ... */}
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Engineers Scoops</Link>
+                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out z-999">Engineers Scoops</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">MJ Saloon & Spa</Link>
+                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out z-999">MJ Saloon & Spa</Link>
                   </li>
                
                 </ul>

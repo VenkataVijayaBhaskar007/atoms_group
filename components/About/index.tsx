@@ -300,7 +300,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
       <div>       
               
       <p className="mb-10">
-    At Atoms Group, our mission is to inspire the world to learn. We have established ourselves as creators of learning environments that empower individuals to enhance their learning capabilities and contribute to making the world a better place to live. Our expertise lies in providing courses and training to students, teachers, parents, and educational institution management, utilizing our innovative models to create effective learning spaces.
+      Our dedicated team forms a harmonious blend of talent, creativity, and expertise, each member contributing to our shared vision of excellence. Explore the faces behind our success and get to know the individuals shaping the dynamic future of Atoms Group.
     </p>
                    </div>
               </div>
