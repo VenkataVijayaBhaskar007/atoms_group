@@ -136,7 +136,7 @@ autoPlay muted loop
   <div className="col-span-12 md:col-span-6 lg:col-span-5 md:order-2">
   <div className="prose">
             <h3 className="text-2xl  text-black font-regular">AI helps build your project quicker and more cost-effectively</h3>
-            <p className="mt-4">AI fits reusable features together based on a template you choose so our developers can focus on creating the custom features only your business needs. AI also calculates a price based on the features ...AI fits reusable features together based on a template you choose so our developers can focus on creating the custom features only your business needs. AI also calculates a price based on the features ...
+            <p className="mt-4">A demo text in relevance with the accordance of image...
             </p>
             
         </div></div><div className="col-span-12 md:col-span-6 lg:col-span-5 md:order-3">
