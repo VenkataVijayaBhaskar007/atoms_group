@@ -768,3 +768,28 @@ html, body {width: auto!important; overflow-x: hidden!important}
     padding-top: 2rem;
   }
 }
+
+/* Default style for the 'pad' tag */
+.pad {
+  padding-top: 2.8rem; /* Adjust the default padding as needed */
+  }
+  
+  /* Media query for screen sizes 639px to 767px */
+  @media screen and (min-width: 639px) and (max-width: 767px) {
+  .pad {
+    padding-top: 4.6rem;
+  }
+  }
+  @media screen and (min-width: 768px) and (max-width: 1280px) {
+  .pad {
+    padding-top: 2.5rem;
+  }
+  }
+  
+  /* Media query for screen sizes 1280px and above */
+  @media screen and (min-width: 1280px) {
+  .pad {
+    padding-top: 5rem;
+  }
+  }
+  

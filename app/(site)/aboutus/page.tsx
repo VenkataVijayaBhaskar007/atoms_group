@@ -21,15 +21,15 @@ const AboutUs = () => {
                 </p>
                 <span className="block font-semibold text-gray-500 dark:text-gray-400">Our business verticles</span>
                 <div className="grid grid-cols-2 sm:grid-cols-3  mb-4">
-  <a href="/aboutus" className="button-style">
+  <a href="https://education.atomsgroup.net/" className="button-style">
     <div><img className="w-auto h-8.5 mb-4 " src="./images/about/education.png" alt="Education" /></div>
   </a>
 
-  <a href="/aboutus" className="button-style">
+  <a href="https://atomsdigitalsolutions.atomsgroup.net/" className="button-style">
     <div><img className="w-auto h-8" src="./images/about/digital.png" alt="Digital" /></div>
   </a>
 
-  <a href="/aboutus" className="button-style">
+  <a href="https://atoms2.0.atomsgroup.net/" className="button-style">
     <div><img className="w-40 h-6" src="./images/about/2.0.png" alt="2.0" /></div>
   </a>
 </div>

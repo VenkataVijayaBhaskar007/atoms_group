@@ -42,7 +42,7 @@ const Hero = () => {
   return (
     <>
    <section id="home" className=" pb-20  md:pt-10 xl:pb-25 xl:pt-1 relative space" >
-  <div className="pt-7 sm:pt-16 lg:pt-20 mx-auto w-full h-full">
+  <div className="pad pt-7 sm:pt-16 lg:pt-20 mx-auto w-full h-full">
     <div className=" md:block scale-95  relative">
       <Slider {...settings} className="">
         {images.map((image, index) => {
