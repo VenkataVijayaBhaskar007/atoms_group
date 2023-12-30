@@ -39,7 +39,7 @@ const AboutUs = () => {
               <div className="your-selector lg:absolute -right-10 lg:w-7/12">
                     <div className="relative w-full">
                         <div aria-hidden="true" className="absolute scale-75 md:scale-110 inset-0 m-auto w-full h-full md:w-96 md:h-96 rounded-full rotate-45 bg-gradient-to-r f blur-3xl"></div>
-                        <video src="./images/about/about.mp4" className="relative kidsmargin xl:ml-30 ml-0"   width="600" height="180"  autoPlay muted loop style={{marginTop:"-16rem",marginRight:"-2rem" }}></video>
+                        <video src="./images/about/about.webm" className="relative kidsmargin xl:ml-30 ml-0"   width="600" height="180"  autoPlay muted loop style={{marginTop:"-16rem",marginRight:"-2rem" }}></video>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@ const AboutUs = () => {
   className="object-contain rounded-3xl w-full"
   height="600"
   width="778"
-  src="./images/about/about1.mp4"
+  src="./images/about/about1.webm"
   autoPlay
   muted
   loop
@@ -114,7 +114,7 @@ const AboutUs = () => {
   className="object-contain rounded-3xl w-full"
   height="600"
   width="778"
-  src="./images/about/about2.mp4"
+  src="./images/about/about2.webm"
   autoPlay
   muted
   loop
@@ -140,7 +140,7 @@ const AboutUs = () => {
   className="object-contain rounded-3xl w-full"
   height="600"
   width="778"
-  src="./images/about/about3.mp4"
+  src="./images/about/about3.webm"
   autoPlay
   muted
   loop
