@@ -98,15 +98,48 @@ const About : React.FC = () => {
 
             <div className="w-full px-4 ">
               <div className="mt-3 lg:mt-0 ">
-             <div style={{marginLeft:"-8px"}}> <h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero" style={{ whiteSpace: 'nowrap' }}>
+             <div style={{marginLeft:"-8px"}}> <motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.1 }}
+
+className="animate_top "
+><h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero" style={{ whiteSpace: 'nowrap' }}>
   <span className="text-content">Atoms Companies</span>
-</h2>
+</h2></motion.div>
 </div>
       <div>       
-              
+      <motion.div
+variants={{
+hidden: {
+opacity: 0,
+x: -40,
+},
+visible: {
+opacity: 1,
+x: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.5 }}
+
+className="animate_top "
+>          
       <p>
       As a dynamic consortium, Atoms Group unites a constellation of companies, each specializing in distinct domains to offer unparalleled services to our valued clients. Atoms Education is our beacon in inspiring global learning, providing innovative courses to students, educators, and institutions. Meanwhile, Atoms Digital Solutions pioneers distinctive digital experiences, excelling in marketing, web/app development, software design, and photography. Complementing these, MJ Saloon, under our umbrella, is a haven of style and grooming. Our commitment is to infuse lifelong learning, innovative digital experiences, and exceptional salon services into the fabric of our client interactions.
     </p>
+    </motion.div>
                    </div>
               </div>
             </div>
@@ -151,7 +184,7 @@ const About : React.FC = () => {
         variants={{
           hidden: {
             opacity: 0,
-            y: -20,
+            y: -40,
           },
 
           visible: {
@@ -264,18 +297,51 @@ const About : React.FC = () => {
 
             <div className="w-full px-4 ">
               <div className="mt-10 lg:mt-0 ">
-             <div style={{marginLeft:"-8px"}}> <h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero" style={{ whiteSpace: 'nowrap' }}>
+             <div style={{marginLeft:"-8px"}}>
+             <motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.1 }}
+
+className="animate_top "
+> <h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero" style={{ whiteSpace: 'nowrap' }}>
   <span className="text-content">Atoms Insights</span>
-</h2>
+</h2></motion.div>
 </div>
       <div>       
-              
+      <motion.div
+variants={{
+hidden: {
+opacity: 0,
+x: -40,
+},
+visible: {
+opacity: 1,
+x: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.6 }}
+
+className="animate_top "
+>           
       <p>
    
 Welcome to the Atoms Group Gallery, where our dynamic consortium showcases the vibrant spectrum of our services. Explore the visual journey of Atoms Education, a beacon of inspiration for global learning, offering innovative courses to students, educators, and institutions. Immerse yourself in the captivating world of Atoms Digital Solutions, where pioneering digital experiences unfold through marketing prowess, web/app development, software design, and artistic photography.
 
 Step into the realm of MJ Saloon, a sanctuary of style and grooming under our umbrella, where exceptional salon services redefine beauty and self-care. Our commitment is evident in each image, reflecting the seamless integration of lifelong learning, innovative digital experiences, and unparalleled salon services into the fabric of our client interactions. Experience the essence of Atoms Group through our visual narrative, where every snapshot tells a story of excellence and dedication to our valued clients.
-    </p>
+    </p></motion.div>
                    </div>
               </div>
             </div>
@@ -295,16 +361,50 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
 
             <div className="w-full px-4 ">
               <div className="mt-10 lg:mt-0 ">
-             <div style={{marginLeft:"-8px"}}> <h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero" style={{ whiteSpace: 'nowrap' }}>
+             <div style={{marginLeft:"-8px"}}>
+             <motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.1 }}
+
+className="animate_top "
+> <h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero" style={{ whiteSpace: 'nowrap' }}>
   <span className="text-content">Our Team</span>
 </h2>
+</motion.div>
 </div>
       <div>       
-              
+      <motion.div
+variants={{
+hidden: {
+opacity: 0,
+x: -40,
+},
+visible: {
+opacity: 1,
+x: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.5 }}
+
+className="animate_top "
+> 
       <p className="mb-10">
       Our dedicated team forms a harmonious blend of talent, creativity, and expertise, each member contributing to our shared vision of excellence. Explore the faces behind our success and get to know the individuals shaping the dynamic future of Atoms Group.
     </p>
-                   </div>
+           </motion.div>        </div>
               </div>
             </div>
             
@@ -320,7 +420,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
 
 
 <section className="flex flex-wrap justify-center items-center "> 
-   
+
         {/* Card 1 */}
       <div className="profile-card  profile-card1 mb-8">
           <div className="img">
@@ -902,16 +1002,30 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
         </div>
 
     </section> 
-    <section>
-  
-</section>
+    
     <section className="border border-x-0 border-y-stroke bg-alabaster py-1 dark:border-y-strokedark dark:bg-black" style={{marginTop:"-4rem"}}>
        
    
     <div className="flex items-center justify-center">
-      <h2 className="text-center mb-4 text-2xl font-bold text-black dark:text-white xl:text-3xl 2xl:text-4xl  ">
+    <motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.1 }}
+
+className="animate_top "
+>  <h2 className="text-center mb-4 text-2xl font-bold text-black dark:text-white xl:text-3xl 2xl:text-4xl  ">
   <span className="text-content  nowraps">Our Clients</span>
-</h2>
+</h2></motion.div>
 
 
 </div>  

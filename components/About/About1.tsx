@@ -26,45 +26,128 @@ y: 0,
 }}
 initial="hidden"
 whileInView="visible"
-transition={{ duration: 1, delay: 1.5 }}
+transition={{ duration: 1, delay: 0.1 }}
 
 className="animate_top "
 ><h2 className="text-with-circle background-circle mb-1 text2xl font-bold text-black dark:text-white xl:text-hero " style={{ whiteSpace: 'nowrap' }}>
 <span className="text-content">Atoms Group</span>
 </h2></motion.div></div>
 <div>       
-      
+<motion.div
+variants={{
+hidden: {
+opacity: 0,
+x: -40,
+},
+visible: {
+opacity: 1,
+x: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.4 }}
+
+className="animate_top "
+>     
 <p>
 Atoms Group of companies were formed with the goal of creating inspiring change makers who make a significant impact on the global economy. Currently, we are actively involved in the education, digital technologies, and hospitality services sectors, with a strong dedication to solving industry challenges through creative solutions. Our main focus is on cultivating imaginative and inspiring leaders who can drive positive transformations within each of these fields.
 
 </p>
+</motion.div>
 
 <div className="mt-5">
+<motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.5 }}
+
+className="animate_top "
+>
       <h2 className=" text-blue-600   text2xl font-bold dark:text-white xl:text-hero" style={{ whiteSpace:'nowrap'}}>
       Our Vision
         
       </h2>
+      </motion.div>
       </div>
 <div className=" flex items-center gap-5">
     
         <div className=" mt-2">
-        
+        <motion.div
+variants={{
+hidden: {
+opacity: 0,
+x: -40,
+},
+visible: {
+opacity: 1,
+x: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.7 }}
+
+className="animate_top "
+>
           <p> To cultivate visionary leaders who, in turn, inspire and create impactful leaders on a global scale.
-</p>
+</p></motion.div>
         </div>
       </div>
       <div className="mt-5">
-      <h2 className=" text-blue-600   text2xl font-bold dark:text-white xl:text-hero" style={{ whiteSpace:'nowrap'}}>
+      <motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.9 }}
+
+className="animate_top "
+>   <h2 className=" text-blue-600   text2xl font-bold dark:text-white xl:text-hero" style={{ whiteSpace:'nowrap'}}>
       Our Mission
         
-      </h2>
+      </h2></motion.div>
       </div>
 <div className=" flex items-center gap-5">
     
         <div className=" mt-2">
-        
+        <motion.div
+variants={{
+hidden: {
+opacity: 0,
+x: -40,
+},
+visible: {
+opacity: 1,
+x: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 1.5 }}
+
+className="animate_top "
+>  
           <p> Fueled by visionary leadership, we drive impactful change in education, technology, and hospitality, empowering individuals through mentorship and innovation to solve industry challenges globally.</p>
-        </div>
+     </motion.div>   </div>
       </div>
      
       

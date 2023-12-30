@@ -32,23 +32,21 @@ const FAQ = () => {
             />
           </div>
           <div className="flex flex-wrap gap-8 md:flex-nowrap md:items-center xl:gap-32.5">
-            <motion.div
-              variants={{
-                hidden: {
-                  opacity: 0,
-                  x: -20,
-                },
-
-                visible: {
-                  opacity: 1,
-                  x: 0,
-                },
-              }}
-              initial="hidden"
-              whileInView="visible"
-              transition={{ duration: 1, delay: 0.1 }}
-              viewport={{ once: true }}
-              className="animate_left md:w-2/5 lg:w-1/2"
+          <motion.div
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.1 }}
+className="animate_left md:w-2/5 lg:w-1/2"
             >
               <span className="font-medium uppercase text-black dark:text-white">
                 
@@ -62,22 +60,20 @@ const FAQ = () => {
             </motion.div>
 
             <motion.div
-              variants={{
-                hidden: {
-                  opacity: 0,
-                  x: 20,
-                },
-
-                visible: {
-                  opacity: 1,
-                  x: 0,
-                },
-              }}
-              initial="hidden"
-              whileInView="visible"
-              transition={{ duration: 1, delay: 0.1 }}
-              viewport={{ once: true }}
-              className="animate_right md:w-3/5 lg:w-1/2"
+variants={{
+hidden: {
+opacity: 0,
+y: -40,
+},
+visible: {
+opacity: 1,
+y: 0,
+},
+}}
+initial="hidden"
+whileInView="visible"
+transition={{ duration: 1, delay: 0.1 }}
+className="animate_right md:w-3/5 lg:w-1/2"
             >
               <div className="rounded-lg bg-white shadow-solid-8 dark:border dark:border-strokedark dark:bg-blacksection">
                 {faqData.map((faq, key) => (
