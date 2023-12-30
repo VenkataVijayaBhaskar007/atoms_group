@@ -169,11 +169,11 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/26.svg"
+          src="./images/about/26.webp"
           alt="card image"
         />
-        {/* Unique Shape Overlay */}
-        <div className="absolute inset-0 bg-teal-500 opacity-10"></div>
+        {/* Unique Shape Overlay 
+        <div className="absolute inset-0 bg-teal-500 opacity-10"></div>*/}
 
       </div>
       <div className="p-6 relative z-10">
@@ -198,11 +198,12 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/27.svg"
+          src="./images/about/27.webp"
           alt="card image"
         />
-        {/* Unique Shape Overlay */}
+        {/* Unique Shape Overlay 
         <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 opacity-50"></div>
+     */}
       </div>
       <div className="p-6 relative z-10">
       <h2 className="mb-3 text-xl font-semibold text-gray-800 dark:text-white">Atoms Digital Solutions</h2>
@@ -225,11 +226,11 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/28.svg"
+          src="./images/about/28.webp"
           alt="card image"
         />
-        {/* Unique Shape Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 opacity-20"></div>
+        {/* Unique Shape Overlay 
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 opacity-20"></div>*/}
       </div>
       <div className="p-6 relative z-10">
         <h2 className="mb-3 text-xl font-semibold text-gray-800 dark:text-white">Atoms 2.O</h2>

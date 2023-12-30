@@ -47,7 +47,7 @@ Atoms Group of companies were formed with the goal of creating inspiring change 
       </div>
 <div className=" flex items-center gap-5">
     
-        <div className="w-3/4 mt-2">
+        <div className=" mt-2">
         
           <p> To cultivate visionary leaders who, in turn, inspire and create impactful leaders on a global scale.
 </p>
@@ -78,7 +78,7 @@ Atoms Group of companies were formed with the goal of creating inspiring change 
 className="object-contain rounded-3xl w-full"
 height="600"
 width="778"
-src="./images/about/about3.mp4"
+src="./images/about/about3.webm"
 autoPlay
 muted
 loop
