@@ -20,7 +20,7 @@ export default function Footer() {
                 <img className=" max-w-full mx-auto md:max-w-none h-auto" src="./images/logo/Atoms-Logo-White.png" width={100} height={60} alt="Features 02" />
                 </Link>
               </div>
-              <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Stay connected with Atoms Software Services, a pioneering branch of the Atoms Group, as we make strides in software services. Explore innovative web applications and exceptional UI/UX designs. Committed to excellence, we actively contribute to the success of ventures. Join us on our evolving journey in the dynamic field of software services.</div>
+              <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Stay connected with Atoms Group, a hub of innovation spanning Atoms Digital Services, Atoms Education, and Hospitality. Delve into avant-garde solutions and transformative experiences across these dynamic sectors. Partner with us to shape a future characterized by innovation, excellence, and positive impact on a global scale.</div>
             </div>
             <div className="order-1 md:order-2 flex  justify-center sm:mt-0 mr-0 md:ml-25 z-999">
             <div className="container ">
@@ -179,16 +179,16 @@ export default function Footer() {
             <div className="order-1 md:order-2 flex mt-4 justify-center sm:mt-0 z-999 mr-0 md:mr-15">
             <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">About</a>
+            <a href="#" className="hover:underline me-4 md:me-6">About Us</a>
         </li>
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">Privacy Policy</a>
+            <a href="#" className="hover:underline me-4 md:me-6">Contact</a>
         </li>
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">Licensing</a>
+            <a href="#" className="hover:underline me-4 md:me-6">Site Map</a>
         </li>
         <li>
-            <a href="#" className="hover:underline">Contact</a>
+            <a href="#" className="hover:underline">Privacy Policy</a>
         </li>
     </ul>
             </div>

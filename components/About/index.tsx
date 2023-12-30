@@ -97,7 +97,7 @@ const About : React.FC = () => {
           
 
             <div className="w-full px-4 ">
-              <div className="mt-3 lg:mt-0 ">
+              <div className=" mt-2 ">
              <div style={{marginLeft:"-8px"}}> <motion.div
 variants={{
 hidden: {
@@ -337,7 +337,9 @@ transition={{ duration: 1, delay: 0.6 }}
 className="animate_top "
 >           
       <p>
-   Welcome to the Atoms Group Gallery—innovation in education, dynamic digital solutions, and hospitality excellence. Each snapshot reflects our commitment to seamless excellence, celebrating a harmonious blend across diverse endeavors.  </p></motion.div>
+      Welcome to the Atoms Group Gallery, where we showcase a convergence of innovation in education, dynamic digital solutions, and hospitality excellence. Each snapshot encapsulates our unwavering commitment to seamless excellence, exemplifying a harmonious blend across a spectrum of diverse endeavors.
+      </p>
+      </motion.div>
                    </div>
               </div>
             </div>
