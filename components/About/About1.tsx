@@ -61,7 +61,7 @@ Atoms Group of companies were formed with the goal of creating inspiring change 
       </div>
 <div className=" flex items-center gap-5">
     
-        <div className="w-3/4 mt-2">
+        <div className=" mt-2">
         
           <p> Fueled by visionary leadership, we drive impactful change in education, technology, and hospitality, empowering individuals through mentorship and innovation to solve industry challenges globally.</p>
         </div>
