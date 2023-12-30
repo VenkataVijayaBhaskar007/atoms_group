@@ -63,7 +63,7 @@ Atoms Group of companies were formed with the goal of creating inspiring change 
     
         <div className="w-3/4 mt-2">
         
-          <p> To cultivate visionary leaders who, in turn, inspire and create impactful leaders on a global scale.</p>
+          <p> Fueled by visionary leadership, we drive impactful change in education, technology, and hospitality, empowering individuals through mentorship and innovation to solve industry challenges globally.</p>
         </div>
       </div>
      

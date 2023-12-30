@@ -169,11 +169,12 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/29.webp"
+          src="./images/about/26.svg"
           alt="card image"
         />
         {/* Unique Shape Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-t from-blue-500 to-cyan-500 opacity-20"></div>
+        <div className="absolute inset-0 bg-teal-500 opacity-10"></div>
+
       </div>
       <div className="p-6 relative z-10">
       <h2 className="mb-3 text-xl font-semibold text-gray-800 dark:text-white">Atoms Education</h2>
@@ -197,11 +198,11 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/27.webp"
+          src="./images/about/27.svg"
           alt="card image"
         />
         {/* Unique Shape Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 opacity-20"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 opacity-50"></div>
       </div>
       <div className="p-6 relative z-10">
       <h2 className="mb-3 text-xl font-semibold text-gray-800 dark:text-white">Atoms Digital Solutions</h2>
@@ -224,7 +225,7 @@ const About : React.FC = () => {
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
-          src="./images/about/26.webp"
+          src="./images/about/28.svg"
           alt="card image"
         />
         {/* Unique Shape Overlay */}
@@ -286,7 +287,7 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
 <Gallery/>
 
 {/*teams section starts*/}
-<section id="Team" className="overflow-hidden   lg:pt-[10px] lg:pb-[30px] bg-white dark:bg-dark px-10">
+<section id="Team" className="overflow-hidden   lg:pt-[10px] lg:pb-[30px]  bg-white dark:bg-dark px-10">
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center justify-between -mx-4">
           
@@ -903,11 +904,11 @@ Step into the realm of MJ Saloon, a sanctuary of style and grooming under our um
     <section>
   
 </section>
-    <section className="border border-x-0 border-y-stroke bg-alabaster py-11 dark:border-y-strokedark dark:bg-black">
+    <section className="border border-x-0 border-y-stroke bg-alabaster py-1 dark:border-y-strokedark dark:bg-black" style={{marginTop:"-4rem"}}>
        
    
     <div className="flex items-center justify-center">
-      <h2 className="text-center mb-6 text-2xl font-bold text-black dark:text-white xl:text-3xl 2xl:text-4xl  ">
+      <h2 className="text-center mb-4 text-2xl font-bold text-black dark:text-white xl:text-3xl 2xl:text-4xl  ">
   <span className="text-content  nowraps">Our Clients</span>
 </h2>
 
