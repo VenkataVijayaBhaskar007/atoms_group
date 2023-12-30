@@ -149,7 +149,12 @@ className="animate_top "
           <p> Fueled by visionary leadership, we drive impactful change in education, technology, and hospitality, empowering individuals through mentorship and innovation to solve industry challenges globally.</p>
      </motion.div>   </div>
       </div>
-     
+      <div className="mt-5">
+      <a href="/aboutus"
+    className="mt-8 mb-10 bg-blue-600 text-white hover:text-blue-600 hover: border border-blue-600 hover:bg-white hover:-translate-y-1 shadow-md hover:shadow-lg transform hover:scale-x-105 px-6 py-2 rounded-full transition duration-300 ease-in-out"
+  >
+   About US
+  </a></div>
       
            </div>
       </div>

@@ -337,11 +337,7 @@ transition={{ duration: 1, delay: 0.6 }}
 className="animate_top "
 >           
       <p>
-   
-Welcome to the Atoms Group Gallery, where our dynamic consortium showcases the vibrant spectrum of our services. Explore the visual journey of Atoms Education, a beacon of inspiration for global learning, offering innovative courses to students, educators, and institutions. Immerse yourself in the captivating world of Atoms Digital Solutions, where pioneering digital experiences unfold through marketing prowess, web/app development, software design, and artistic photography.
-
-Step into the realm of MJ Saloon, a sanctuary of style and grooming under our umbrella, where exceptional salon services redefine beauty and self-care. Our commitment is evident in each image, reflecting the seamless integration of lifelong learning, innovative digital experiences, and unparalleled salon services into the fabric of our client interactions. Experience the essence of Atoms Group through our visual narrative, where every snapshot tells a story of excellence and dedication to our valued clients.
-    </p></motion.div>
+   Welcome to the Atoms Group Gallery—innovation in education, dynamic digital solutions, and hospitality excellence. Each snapshot reflects our commitment to seamless excellence, celebrating a harmonious blend across diverse endeavors.  </p></motion.div>
                    </div>
               </div>
             </div>
