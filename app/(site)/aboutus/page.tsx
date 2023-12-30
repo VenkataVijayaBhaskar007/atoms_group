@@ -84,15 +84,15 @@ const AboutUs = () => {
             
         </div></div><div className="col-span-12 md:col-span-6 lg:col-span-5 md:order-3">
         <video
-
+  className="object-contain rounded-3xl w-full"
   height="600"
   width="778"
-  src="./images/about/about1.mp4" 
-
-  sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 38vw, (max-width: 1279px) 31vw, (max-width: 1439px) 30vw, (max-width: 1919px) 29vw, 23vw"
-  class="object-contain rounded-3xl"
-  autoPlay muted loop
+  src="./images/about/about1.mp4"
+  autoPlay
+  muted
+  loop
 />
+
 
 </div>
 <div className="hidden lg:block col-span-1 order-4">
@@ -114,14 +114,13 @@ const AboutUs = () => {
     
     <div className="col-span-12 md:col-span-6 lg:col-span-5 md:order-2">
     <video
-
-height="600"
-width="778"
-src="./images/about/about2.mp4" 
-
-sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 38vw, (max-width: 1279px) 31vw, (max-width: 1439px) 30vw, (max-width: 1919px) 29vw, 23vw"
-class="object-contain rounded-3xl"
-autoPlay muted loop
+  className="object-contain rounded-3xl w-full"
+  height="600"
+  width="778"
+  src="./images/about/about2.mp4"
+  autoPlay
+  muted
+  loop
 />
     </div>
     
@@ -141,14 +140,13 @@ autoPlay muted loop
             
         </div></div><div className="col-span-12 md:col-span-6 lg:col-span-5 md:order-3">
         <video
-
-height="600"
-width="778"
-src="./images/about/about3.mp4" 
-
-sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 38vw, (max-width: 1279px) 31vw, (max-width: 1439px) 30vw, (max-width: 1919px) 29vw, 23vw"
-class="object-contain rounded-3xl"
-autoPlay muted loop
+  className="object-contain rounded-3xl w-full"
+  height="600"
+  width="778"
+  src="./images/about/about3.mp4"
+  autoPlay
+  muted
+  loop
 />
 </div>
 <div className="hidden lg:block col-span-1 order-4">
