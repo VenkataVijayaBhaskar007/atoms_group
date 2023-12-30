@@ -175,7 +175,7 @@ export default function Footer() {
           <hr className="my-6 border-gray-200  dark:border-gray-700 lg:my-8" />
 
       <div className=" flex flex-col md:flex-row md:justify-between items-center text-sm text-gray-400">
-            <p className="order-2 md:order-1 mt-8 md:mt-0 z-999 hover:text-cyan-400"> &copy;   Made with ❤️ by Atoms Digital Solutions </p>
+            <a href="https://atomsdigitalsolutions.atomsgroup.net/" className="order-2 md:order-1 mt-8 md:mt-0 z-999 hover:text-cyan-400"> &copy;   Made with ❤️ by Atoms Digital Solutions </a>
             <div className="order-1 md:order-2 flex mt-4 justify-center sm:mt-0 z-999 mr-0 md:mr-15">
             <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
