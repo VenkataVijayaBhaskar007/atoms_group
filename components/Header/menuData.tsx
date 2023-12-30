@@ -11,14 +11,14 @@ const menuData: Menu[] = [
     id: 2,
     title: "About",
     newTab: false,
-    path: "#About",
+    path: "/#About",
   },
  
   {
     id: 3,
     title: "Companies",
     newTab: false,
-    path: "#Companies",
+    path: "/#Companies",
     submenu: [
       {
         id: 31,
@@ -30,19 +30,19 @@ const menuData: Menu[] = [
         id: 34,
         title: "Atoms Education",
         newTab: false,
-        path: "https://atoms-education-omega.vercel.app/",
+        path: "https://education.atomsgroup.net/",
       },
       {
         id: 35,
         title: "Atoms Digital Solutins ",
         newTab: false,
-        path: "https://digital-solutions-orpin.vercel.app/",
+        path: "https://atomsdigitalsolutions.atomsgroup.net/",
       },
       {
         id: 35,
         title: "Atoms 2.O",
         newTab: false,
-        path: "http://atoms2-0.vercel.app",
+        path: "https://atoms2.0.atomsgroup.net/",
       },
       // {
       //   id: 35.1,
@@ -62,13 +62,13 @@ const menuData: Menu[] = [
     id: 2,
     title: "Insights",
     newTab: false,
-    path: "#Insights",
+    path: "/#Insights",
   },
   {
     id: 2.3,
     title: "Team",
     newTab: false,
-    path: "#Team",
+    path: "/#Team",
   },
  
  
