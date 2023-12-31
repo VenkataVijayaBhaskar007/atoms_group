@@ -51,7 +51,7 @@ const AboutUs = () => {
     <div className=" px-4 mx-auto max-w-screen-xl text-center  lg:px-12">
        
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-4xl lg:text-5xl dark:text-white">About Us and Our Work Culture</h1>
-        <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">At the genesis of Atoms Group, our mission emerged: cultivating visionary leaders for a profound impact on the global economic landscape. Our dynamic involvement spans education, digital technologies, and hospitality. Join us on this transformative journey, where innovation converges with distinction, shaping a future defined by pioneering change.</p>
+        <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">At the genesis of Atoms Group, our mission is to cultivating visionary leaders for a profound impact on the global economic landscape. Our dynamic involvement spans education, digital technologies, and hospitality. Join us on this transformative journey, where innovation converges with distinction, shaping a future defined by pioneering change.</p>
        </div>
  
   
