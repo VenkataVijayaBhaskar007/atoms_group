@@ -22,11 +22,18 @@ const AboutUs = () => {
                 <span className="block font-semibold text-gray-500 dark:text-gray-400">Our business verticles</span>
                 <div className="bg-white py-24 sm:py-32  "style={{ marginLeft:"-28px"  }}>
   <div className="mx-auto max-w-7xl px-10 lg:px-8">
-    <div className="mx-auto -mt-30 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-      <img className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 col-span-2 max-h-15.5 w-full object-contain lg:col-span-1" src="./images/about/education.png" alt="Transistor" width="158" height="48"/>
-<img className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 col-span-2 max-h-19 w-full object-contain lg:col-span-1" src="./images/about/2.0.png" alt="Tuple" width="158" height="48"/>
-<img className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 col-span-2 max-h-15 w-full object-contain lg:col-span-1" src="./images/about/digital.png" alt="Reform" width="158" height="48"/>
-   </div>
+  <div className="mx-auto -mt-30 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+  <a href="https://education.atomsgroup.net/" >
+    <img className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 col-span-2 max-h-15.5 w-full object-contain lg:col-span-1" src="./images/about/education.png" alt="Transistor" width="158" height="48" />
+  </a>
+  <a href="https://atomsdigitalsolutions.atomsgroup.net/" >
+    <img className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 col-span-2 max-h-19 w-full object-contain lg:col-span-1" src="./images/about/2.0.png" alt="Tuple" width="158" height="48" />
+  </a>
+  <a href="https://atoms2.0.atomsgroup.net/" >
+    <img className="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 col-span-2 max-h-15 w-full object-contain lg:col-span-1" src="./images/about/digital.png" alt="Reform" width="158" height="48" />
+  </a>
+</div>
+
   </div>
 </div>
 

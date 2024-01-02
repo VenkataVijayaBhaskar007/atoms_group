@@ -166,24 +166,14 @@ className="animate_top "
 className="object-contain rounded-3xl w-full"
 height="600"
 width="778"
-src="./images/about/about3.webm"
+src="./images/about/about.mp4"
 autoPlay
 muted
 loop
 />
           
        
-        <div className="w-full px-3 sm:px-4 xl:w-1/2">
-            
-          <div className="relative py-3 ">
-          
-           
-          </div>
-         
-          <div className="relative py-3 ">
-            
-          </div>
-        </div>
+        
        
       </div>
     </div>
@@ -191,7 +181,7 @@ loop
 </div>
 </section>
 
-<section style={{ marginTop:"-7rem" }}>
+<section className="lg:mt-8">
 
 <div className="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4 p-10 xl:-mt-30 ">
 <div className="min-w-0 rounded-full overflow-hidden shadow-md bg-white hover:bg-gradient-to-br hover:from-cyan-400 hover:via-blue-400 hover:to-blue-500 hover:text-white text-black transition-all duration-100 relative group border-2 border-gray-100 dark:bg-gray-800">
