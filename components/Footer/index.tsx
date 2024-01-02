@@ -172,7 +172,7 @@ export default function Footer() {
           
 
           {/* Bottom area */}
-          <hr className="my-6 border-gray-200  dark:border-gray-700 lg:my-8" />
+          <hr className="my-6 border-gray-200  dark:border-gray-700 lg:my-8 "  />
 
       <div className=" flex flex-col md:flex-row md:justify-between items-center text-sm text-gray-400">
             <a href="https://atomsdigitalsolutions.atomsgroup.net/" className="order-2 md:order-1 mt-8 md:mt-0 z-999 hover:text-cyan-400"> &copy;   Made with ❤️ by Atoms Digital Solutions </a>
