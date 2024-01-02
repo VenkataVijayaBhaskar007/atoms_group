@@ -1056,7 +1056,7 @@ className="animate_top "
        
        
        
-           <img src="./images/clients/6.webp" alt="client-6 logo image" />
+          
        
        
        
@@ -1064,7 +1064,7 @@ className="animate_top "
        
        
        
-           <img src="./images/clients/8.webp" alt="client-8 logo image" />
+         
        
        
        
