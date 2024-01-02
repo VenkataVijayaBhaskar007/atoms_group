@@ -1068,13 +1068,6 @@ className="animate_top "
        
        
        
-           <img src="./images/clients/9.webp" alt="client-9 logo image" />
-       
-       
-       
-       
-           <img src="./images/clients/10.webp" alt="client-10 logo image" />
-       
        
        
        
