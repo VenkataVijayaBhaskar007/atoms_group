@@ -22,7 +22,7 @@ const faqData: FAQ[] = [
     quest: " How does Atoms Group foster innovation within its organization?",
     ans: "Atoms Group nurtures a culture of innovation by encouraging collaborative thinking, embracing diverse perspectives, and providing a conducive environment for creative problem-solving. Our commitment to continuous learning and adaptability ensures a thriving culture of innovation.",
    },
-  
+  //hello
 ];
 
 export default faqData;
