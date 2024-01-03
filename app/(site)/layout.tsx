@@ -1,5 +1,5 @@
 "use client";
-
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Lines from "@/components/Lines";
@@ -28,6 +28,7 @@ export default function RootLayout({
           <Header />
           <ToasterContext />
           {children}
+          <SpeedInsights />
           <Footer />
           <ScrollToTop />
         </ThemeProvider>
