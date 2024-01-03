@@ -248,7 +248,7 @@ loop
         <p className="mb-2 text-sm font-medium  dark:text-gray-400">
           Impressions
         </p>
-        <p className="text-lg font-semibold  dark:text-gray-200"> 31,83,180+</p>
+        <p className="text-lg font-semibold  dark:text-gray-200"> 31,83,186+</p>
       </div>
     </div>
   </div>
