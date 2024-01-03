@@ -11,7 +11,7 @@ const About1 = () => {
   
 
     <div className="w-full px-4 lg:w-1/2 xl:w-5/12">
-      <div >
+      <div className="mt-1">
      <div style={{marginLeft:"-8px"}}> 
      <motion.div
 variants={{
