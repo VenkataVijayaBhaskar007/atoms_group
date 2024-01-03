@@ -156,10 +156,10 @@ export default function Footer() {
                   
                   {/* ... list items ... */}
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out z-999">Engineers Scoops</Link>
+                    <Link href="https://atoms2.0.atomsgroup.net/EngineersScoops" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out z-999">Engineers Scoops</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out z-999">MJ Saloon & Spa</Link>
+                    <Link href="https://atoms2.0.atomsgroup.net/Mj" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out z-999">MJ Saloon & Spa</Link>
                   </li>
                
                 </ul>
