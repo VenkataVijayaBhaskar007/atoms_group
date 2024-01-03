@@ -290,7 +290,7 @@ className="animate_top "
 </section>
 
 
-<section id="insights" className="overflow-hidden   lg:pt-[10px] lg:pb-[30px] bg-white dark:bg-dark px-10">
+<section id="Insights" className="overflow-hidden   lg:pt-[15px] lg:pb-[30px] bg-white dark:bg-dark px-10">
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center justify-between -mx-4">
           
