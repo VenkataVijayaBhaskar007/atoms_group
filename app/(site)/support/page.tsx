@@ -1,7 +1,7 @@
 import React from "react";
 import Contact from "@/components/Contact";
 import { Metadata } from "next";
-import About from './../../../components/About/index';
+import Home from "../page";
 
 export const metadata: Metadata = {
   title: "Atoms group",
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const SupportPage = () => {
   return (
     <div className="pb-20 pt-40">
-      <About />
+      <Home />
     </div>
   );
 };
