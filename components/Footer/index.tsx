@@ -1,12 +1,9 @@
 import React from 'react';
 import Link from 'next/link';
-import Image from 'next/image'
-import YourComponent from './visit';
+
 
 export default function Footer() {
-  const scriptContent = `
-  <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1122143/t/2"></script>
-`;
+
   return (
     <>
    
@@ -173,8 +170,7 @@ export default function Footer() {
       </div>
 
           </div>
-          <div dangerouslySetInnerHTML={{ __html: scriptContent }} className="z-99999 flex flex-col items-end mb-2 text-blue-600 " style={{marginTop:"-5rem"}}></div>
-
+      
 
           {/* Bottom area */}
           <hr className="my-6 border-gray-200  dark:border-gray-700 lg:my-8 "  />
@@ -184,7 +180,7 @@ export default function Footer() {
      
             <a href="https://atomsdigitalsolutions.atomsgroup.net/" className="order-2 md:order-1 mt-8 md:mt-0 z-999 hover:text-cyan-400"> &copy;   Made with ❤️ by Atoms Digital Solutions </a>
             <div className="order-1 md:order-2 flex mt-4 justify-center sm:mt-0 z-999 mr-0 md:mr-15">
-            <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
+            <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-white dark:text-gray-400 sm:mt-0">
         <li>
             <a href="#" className="hover:underline me-4 md:me-6">About Us</a>
         </li>
