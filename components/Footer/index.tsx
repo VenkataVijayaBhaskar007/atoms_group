@@ -175,7 +175,7 @@ export default function Footer() {
           </div>
           <div dangerouslySetInnerHTML={{ __html: scriptContent }} className="z-99999 flex flex-col items-end mb-2 text-blue-600 " style={{marginTop:"-5rem"}}></div>
 
-    
+
           {/* Bottom area */}
           <hr className="my-6 border-gray-200  dark:border-gray-700 lg:my-8 "  />
         

@@ -29,7 +29,7 @@ const menuData: Menu[] = [
       {
         id: 34,
         title: "Atoms Education",
-        newTab: false,
+        newTab: true,
         path: "https://education.atomsgroup.net/",
       },
       {
