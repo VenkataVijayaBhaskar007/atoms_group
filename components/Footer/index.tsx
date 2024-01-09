@@ -181,7 +181,7 @@ export default function Footer() {
             <a href="/aboutus" className="hover:underline me-4 md:me-6">About Us</a>
         </li>
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">Contact</a>
+            <a href="https://share.hsforms.com/1EB28MLk0QLyyguPUMWbBWgqpkzq" className="hover:underline me-4 md:me-6">Contact</a>
         </li>
         <li>
             <a href="#" className="hover:underline me-4 md:me-6">Site Map</a>

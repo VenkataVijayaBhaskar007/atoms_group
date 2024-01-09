@@ -936,7 +936,7 @@ className="animate_top "
             />
             <div className="hide" style={{whiteSpace:"nowrap"}}>
              <h3>Naga Sai Durgesh Singamsetty</h3>
-            <p>Director & Digital Marketing Associate</p> </div>
+            <p>Lead of Digital Marketing Services</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
     <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
