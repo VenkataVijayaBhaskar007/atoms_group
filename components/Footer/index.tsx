@@ -24,7 +24,7 @@ export default function Footer() {
               </div>
               <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Stay connected with Atoms Group, a hub of innovation spanning Atoms Digital Services, Atoms Education, and Hospitality. Delve into avant-garde solutions and transformative experiences across these dynamic sectors. Partner with us to shape a future characterized by innovation, excellence, and positive impact on a global scale.</div>
             </div>
-            <div className="order-1 md:order-2 flex  justify-center sm:mt-0 mr-0 md:ml-25 z-999">
+            <div className="order-1 md:order-2 flex  justify-center sm:mt-0 mr-0 md:ml-20 z-999">
             <div className="container ">
     <div className=" flex justify-center">
     <a href="#!" className="mr-6 text-neutral-800 dark:text-neutral-200">
@@ -37,11 +37,7 @@ export default function Footer() {
     d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" />
 </svg>
       </a>
-      <a href="#!" className="mr-6 text-neutral-800 dark:text-neutral-200" style={{marginTop:"1px"}}>
-      <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className="h-4 w-4"  fill="white" viewBox="0 0 50 50">
-<path d="M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z"></path>
-</svg>
-      </a>
+      
       <a href="#!" className="mr-6 text-neutral-800 dark:text-neutral-200">
       <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -53,7 +49,7 @@ export default function Footer() {
 </svg>
 
       </a>
-      <a href="#!" className="mr-6 text-neutral-800 dark:text-neutral-200">
+      <a href="https://instagram.com/atoms.group?igshid=NGVhN2U2NjQ0Yg==" className="mr-6 text-neutral-800 dark:text-neutral-200">
         <svg
           xmlns="http://www.w3.org/2000/svg"
                className="h-5 w-4"
@@ -182,7 +178,7 @@ export default function Footer() {
             <div className="order-1 md:order-2 flex mt-4 justify-center sm:mt-0 z-999 mr-0 md:mr-15">
             <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-white dark:text-gray-400 sm:mt-0">
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">About Us</a>
+            <a href="/aboutus" className="hover:underline me-4 md:me-6">About Us</a>
         </li>
         <li>
             <a href="#" className="hover:underline me-4 md:me-6">Contact</a>
