@@ -227,7 +227,7 @@ className="animate_top "
     </a>
     
    {/* 2 Card */}
-   <a href="https://education.atomsgroup.net/" className="max-w-sm mx-4 my-4 overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out">
+   <a href="https://atomsdigitalsolutions.atomsgroup.net/" className="max-w-sm mx-4 my-4 overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out">
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
@@ -255,7 +255,7 @@ className="animate_top "
       </div>
     </a>
      {/* 3 Card */}
-     <a href="https://education.atomsgroup.net/" className="max-w-sm mx-4 my-4 overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out">
+     <a href="https://atoms2.0.atomsgroup.net/" className="max-w-sm mx-4 my-4 overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out">
       <div className="relative w-full h-48 overflow-hidden">
         <img
           className="object-cover object-center w-full h-full"
