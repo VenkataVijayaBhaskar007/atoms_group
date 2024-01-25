@@ -34,7 +34,7 @@ const menuData: Menu[] = [
       },
       {
         id: 35,
-        title: "Atoms Digital Solutins ",
+        title: "Atoms Digital Solutions ",
         newTab: false,
         path: "https://atomsdigitalsolutions.atomsgroup.net/",
       },
