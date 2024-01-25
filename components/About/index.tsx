@@ -967,7 +967,7 @@ className="animate_top "
           </div>
           <div className="caption">
             <h3>Naga Sai Durgesh Singamsetty</h3>
-            <p>Director & Digital Marketing Associate</p> 
+            <p>Lead of Digital Marketing Services</p> 
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
