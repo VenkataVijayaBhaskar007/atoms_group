@@ -114,7 +114,7 @@ export default function Footer() {
                     <Link href="https://digitalmarketingservices.atomsgroup.net/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Digital Marketing Services</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="https://softwaresolutions.atomsgroup.net/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Software Services</Link>
+                    <Link href="https://softwaresolutions.atomsgroup.net/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">Software Solutions</Link>
                   </li>
                   <li className="mb-1">
                     <Link href="https://visualmedia.atomsgroup.net/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual Media</Link>
