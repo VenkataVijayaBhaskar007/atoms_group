@@ -111,7 +111,7 @@ const CTA = () => {
                   </a>
                 ) : (
                   <a
-                    href="mailto:your@email.com"
+                    href="mailto:atomsgroup01@gmail.com"
                     className="inline-flex items-center gap-2.5 rounded-full bg-white px-6 py-3 font-medium text-black hover:opacity-90 dark:bg-purple-600 dark:text-white hover:translate-y-[-8px]"
                   >
                     Contact US

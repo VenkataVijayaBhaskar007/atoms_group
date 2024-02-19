@@ -39,7 +39,7 @@ const Header = () => {
       contactLink.href = "tel:8688275808";
     } else {
       // If it's not a mobile device, set the link for sending an email
-      contactLink.href = "mailto:your@email.com";
+      contactLink.href = "mailto:atomsgroup01@gmail.com";
     }
   };
 
