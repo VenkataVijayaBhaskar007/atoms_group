@@ -214,7 +214,7 @@ loop
         <p className="mb-2 text-sm font-medium  dark:text-gray-400">
          Team
         </p>
-        <p className="text-lg font-semibold  dark:text-gray-200"> 20+</p>
+        <p className="text-lg font-semibold  dark:text-gray-200"> 30+</p>
       </div>
     </div>
   </div>
