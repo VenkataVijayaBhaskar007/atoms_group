@@ -26,6 +26,27 @@ const Header = () => {
   useEffect(() => {
     window.addEventListener("scroll", handleStickyMenu);
   });
+  const isMobileDevice = () => {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+  };
+
+  // Function to update the contact link based on device type
+  const updateContactLink = () => {
+    const contactLink = document.getElementById("contactLink");
+
+    if (isMobileDevice()) {
+      // If it's a mobile device, set the link for a direct call
+      contactLink.href = "tel:8688275808";
+    } else {
+      // If it's not a mobile device, set the link for sending an email
+      contactLink.href = "mailto:your@email.com";
+    }
+  };
+
+  // Call the function to update the link on component mount
+  useEffect(() => {
+    updateContactLink();
+  }, []);
 
   return (
     <header
@@ -151,25 +172,14 @@ const Header = () => {
             </ul>
           </nav>
 
-          <div className="mt-7 flex items-center gap-6 xl:mt-0">
-            {/* <ThemeToggler /> */}
-
-            {/* <Link
-              href="/docs"
-              className="text-regular font-medium text-waterloo hover:text-primary"
-            >
-              Our core team 
-            </Link> */}
-
-            <Link
-              href="tel:8688275808"
-              className="flex items-center justify-center rounded-full bg-primary px-5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-blue-900 hover:translate-y-[-8px]"
-            >
-              Contact US 
-            </Link>
-          </div>
+          <div id="contactSection" className="mt-7 flex items-center gap-6 xl:mt-0">
+  <a id="contactLink" href="#" className="flex items-center justify-center rounded-full bg-primary px-5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-blue-900 hover:translate-y-[-8px]">
+    Contact Us
+  </a>
+</div>
         </div>
       </div>
+      
     </header>
   );
 };
