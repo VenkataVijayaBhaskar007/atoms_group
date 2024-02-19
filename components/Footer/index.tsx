@@ -135,7 +135,7 @@ export default function Footer() {
                     <Link href="https://education.atomsgroup.net/section1" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Personality Development Program</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="https://education.atomsgroup.net/section2" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">The Acumen Club</Link>
+                    <Link href="https://education.atomsgroup.net/TheAcumenClub" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">The Acumen Club</Link>
                   </li>
                   <li className="mb-1">
                     <Link href="https://education.atomsgroup.net/section3" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Tutions</Link>

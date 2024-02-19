@@ -431,7 +431,7 @@ className="animate_top "
             <p>Chairman & Director</p></div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:ayyappaatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:ayyappaatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -465,7 +465,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
           <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:ayyappaatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:ayyappaatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -507,7 +507,7 @@ className="animate_top "
             <p>CEO & Director</p> </div>
             <ul className="flex justify-start items-center mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:sravanthatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanthatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -539,7 +539,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
         <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:sravanthatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanthatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -579,7 +579,7 @@ className="animate_top "
             <p>CMO & Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:azaruddin.atoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:azaruddin.atoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -611,7 +611,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
            <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:azaruddin.atoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:azaruddin.atoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -651,7 +651,7 @@ className="animate_top "
             <p>Director</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:prudhvipachipulusuatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:prudhvipachipulusuatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -683,7 +683,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
          <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:prudhvipachipulusuatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:prudhvipachipulusuatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -723,7 +723,7 @@ className="animate_top "
             <p>Director & Lead of Acumen Club</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:saiganeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:saiganeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -755,7 +755,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
             <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:saiganeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:saiganeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -795,7 +795,7 @@ className="animate_top "
             <p>Director & Lead of Engineer's Scoops</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:sravanatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -828,7 +828,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:sravanatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:sravanatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -867,7 +867,7 @@ className="animate_top "
             <p>Director & Lead of Visual Media</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:atomsdurga@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:atomsdurga@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -899,7 +899,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0 ">
   <li className="ml-4">
-    <Link href="mailto:atomsdurga@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:atomsdurga@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -939,7 +939,7 @@ className="animate_top "
             <p>Lead of Digital Marketing Services</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -971,7 +971,7 @@ className="animate_top "
             {/* Social links for Card 1 */}
              <ul className="flex mb-4 md:order-1  md:mb-0">
   <li className="ml-4">
-    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-black rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-8 h-8 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>

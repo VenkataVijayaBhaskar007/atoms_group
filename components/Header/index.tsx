@@ -162,7 +162,7 @@ const Header = () => {
             </Link> */}
 
             <Link
-              href="https://share.hsforms.com/1EB28MLk0QLyyguPUMWbBWgqpkzq"
+              href="tel:8688275808"
               className="flex items-center justify-center rounded-full bg-primary px-5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-blue-900 hover:translate-y-[-8px]"
             >
               contact US 
