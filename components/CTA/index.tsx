@@ -60,9 +60,13 @@ const CTA = () => {
                 Contact with us to get more services from us.........
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                convallis tortor eros. Donec vitae tortor lacus. Phasellus
-                aliquam ante in maximus.
+              Please feel free to reach out to us, and we will ensure to offer you comprehensive and tailored solutions to meet your specific needs.
+
+
+
+
+
+
               </p>
             </motion.div>
             <motion.div
