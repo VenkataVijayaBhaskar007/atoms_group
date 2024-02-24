@@ -1022,7 +1022,7 @@ className="animate_top "
             <p>Director of Atoms Education PVT. LTD</p> </div>
             <ul className="flex mb-4 hide-social md:order-1  md:mb-0 hide">
   <li className="ml-15">
-    <Link href="mailto:Durgeshatoms@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
+    <Link href="mailto:madscientistcharan@gmail.com" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-red-400 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Twitter">
       <svg className="w-5 h-5 fill-current" viewBox="-2.5 0 13 7" xmlns="http://www.w3.org/2000/svg">
         <path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z" />
       </svg>
@@ -1030,7 +1030,7 @@ className="animate_top "
   </li>
 
   <li className="ml-4">
-    <Link href="https://www.linkedin.com/in/naga-sai-durgesh-singamsetty-976a71224/" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
+    <Link href="https://in.linkedin.com/in/charan-vcr" className="flex justify-center items-center text-white bg-sky-400 hover:text-gray-100 hover:bg-blue-900 rounded-full hover:translate-y-[-1px] hover:scale-100" aria-label="Linkedin">
       <svg className="w-5 h-5 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M23.3 8H8.7c-.4 0-.7.3-.7.7v14.7c0 .3.3.6.7.6h14.7c.4 0 .7-.3.7-.7V8.7c-.1-.4-.4-.7-.8-.7zM12.7 21.6h-2.3V14h2.4v7.6h-.1zM11.6 13c-.8 0-1.4-.7-1.4-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4-.1.7-.7 1.4-1.4 1.4zm10 8.6h-2.4v-3.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.8h-2.4V14h2.3v1c.3-.6 1.1-1.2 2.2-1.2 2.4 0 2.8 1.6 2.8 3.6v4.2h.1z" />
       </svg>
